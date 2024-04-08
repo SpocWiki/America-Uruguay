@@ -126,8 +126,10 @@ Capital :: [[Uruguay/Counties/Montevideo/City/Montevideo]]
 
 [Alcohol-l::8.1] 
 [Language-Id::492] 
-[geo-lon::-56.17] 
-[geo-lat::-34.91] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-56.17] 
+[has_place_latitude::-34.91] 
 
 
 
