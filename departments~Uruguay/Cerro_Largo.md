@@ -1,30 +1,30 @@
 ---
-location: [ -32.3 , -54.3 ] 
+location:
+  - -32.3
+  - -54.3
 type: geo-Region
 title: Cerro_Largo
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Cerro_Largo
-
+  - Cerro_Largo
+  - Cerro Largo
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
 linkTitle: 
 keywords: 
 layout: 
 publishDate: 
-expiryDate: 
+expiryDate:
 ---
 
 # Cerro_Largo

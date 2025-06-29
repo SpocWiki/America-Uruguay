@@ -14,6 +14,7 @@ tags:
 - geo/Country/Region
 aliases:
 - San_José
+- San José
 
 Languages:
 - de

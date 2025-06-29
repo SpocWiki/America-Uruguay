@@ -14,6 +14,8 @@ tags:
 - geo/Country/Region
 aliases:
 - Río_Negro
+- Río Negro
+- Rio Negro
 
 Languages:
 - de

@@ -14,6 +14,7 @@ tags:
 - geo/Country/Region
 aliases:
 - Treinta_y_Tres
+- Treinta y Tres
 
 Languages:
 - de
