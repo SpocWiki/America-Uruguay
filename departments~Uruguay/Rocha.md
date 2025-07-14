@@ -41,15 +41,17 @@ markerFolder: ./Rocha/
 
 ## Confidential Links & Embeds: 
 
-### [Rocha.public](/_public/\Earth\Continent\America~South\Uruguay\departments~UruguayRocha.public.md) 
+### [Rocha](/_Standards/Earth/Continent/America~South/Uruguay/departments~Uruguay/Rocha.md) 
 
-### [Rocha.internal](/_internal/\Earth\Continent\America~South\Uruguay\departments~UruguayRocha.internal.md) 
+### [Rocha.public](/_public/Earth/Continent/America~South/Uruguay/departments~Uruguay/Rocha.public.md) 
 
-### [Rocha.protect](/_protect/\Earth\Continent\America~South\Uruguay\departments~UruguayRocha.protect.md) 
+### [Rocha.internal](/_internal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Rocha.internal.md) 
 
-### [Rocha.private](/_private/\Earth\Continent\America~South\Uruguay\departments~UruguayRocha.private.md) 
+### [Rocha.protect](/_protect/Earth/Continent/America~South/Uruguay/departments~Uruguay/Rocha.protect.md) 
 
-### [Rocha.personal](/_personal/\Earth\Continent\America~South\Uruguay\departments~UruguayRocha.personal.md) 
+### [Rocha.private](/_private/Earth/Continent/America~South/Uruguay/departments~Uruguay/Rocha.private.md) 
 
-### [Rocha.secret](/_secret/\Earth\Continent\America~South\Uruguay\departments~UruguayRocha.secret.md)
+### [Rocha.personal](/_personal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Rocha.personal.md) 
+
+### [Rocha.secret](/_secret/Earth/Continent/America~South/Uruguay/departments~Uruguay/Rocha.secret.md)
 

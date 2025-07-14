@@ -41,15 +41,17 @@ markerFolder: ./Salto/
 
 ## Confidential Links & Embeds: 
 
-### [Salto.public](/_public/\Earth\Continent\America~South\Uruguay\departments~UruguaySalto.public.md) 
+### [Salto](/_Standards/Earth/Continent/America~South/Uruguay/departments~Uruguay/Salto.md) 
 
-### [Salto.internal](/_internal/\Earth\Continent\America~South\Uruguay\departments~UruguaySalto.internal.md) 
+### [Salto.public](/_public/Earth/Continent/America~South/Uruguay/departments~Uruguay/Salto.public.md) 
 
-### [Salto.protect](/_protect/\Earth\Continent\America~South\Uruguay\departments~UruguaySalto.protect.md) 
+### [Salto.internal](/_internal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Salto.internal.md) 
 
-### [Salto.private](/_private/\Earth\Continent\America~South\Uruguay\departments~UruguaySalto.private.md) 
+### [Salto.protect](/_protect/Earth/Continent/America~South/Uruguay/departments~Uruguay/Salto.protect.md) 
 
-### [Salto.personal](/_personal/\Earth\Continent\America~South\Uruguay\departments~UruguaySalto.personal.md) 
+### [Salto.private](/_private/Earth/Continent/America~South/Uruguay/departments~Uruguay/Salto.private.md) 
 
-### [Salto.secret](/_secret/\Earth\Continent\America~South\Uruguay\departments~UruguaySalto.secret.md)
+### [Salto.personal](/_personal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Salto.personal.md) 
+
+### [Salto.secret](/_secret/Earth/Continent/America~South/Uruguay/departments~Uruguay/Salto.secret.md)
 

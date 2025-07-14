@@ -42,15 +42,17 @@ markerFolder: ./San_José/
 
 ## Confidential Links & Embeds: 
 
-### [San_José.public](/_public/\Earth\Continent\America~South\Uruguay\departments~UruguaySan_José.public.md) 
+### [San_José](/_Standards/Earth/Continent/America~South/Uruguay/departments~Uruguay/San_José.md) 
 
-### [San_José.internal](/_internal/\Earth\Continent\America~South\Uruguay\departments~UruguaySan_José.internal.md) 
+### [San_José.public](/_public/Earth/Continent/America~South/Uruguay/departments~Uruguay/San_José.public.md) 
 
-### [San_José.protect](/_protect/\Earth\Continent\America~South\Uruguay\departments~UruguaySan_José.protect.md) 
+### [San_José.internal](/_internal/Earth/Continent/America~South/Uruguay/departments~Uruguay/San_José.internal.md) 
 
-### [San_José.private](/_private/\Earth\Continent\America~South\Uruguay\departments~UruguaySan_José.private.md) 
+### [San_José.protect](/_protect/Earth/Continent/America~South/Uruguay/departments~Uruguay/San_José.protect.md) 
 
-### [San_José.personal](/_personal/\Earth\Continent\America~South\Uruguay\departments~UruguaySan_José.personal.md) 
+### [San_José.private](/_private/Earth/Continent/America~South/Uruguay/departments~Uruguay/San_José.private.md) 
 
-### [San_José.secret](/_secret/\Earth\Continent\America~South\Uruguay\departments~UruguaySan_José.secret.md)
+### [San_José.personal](/_personal/Earth/Continent/America~South/Uruguay/departments~Uruguay/San_José.personal.md) 
+
+### [San_José.secret](/_secret/Earth/Continent/America~South/Uruguay/departments~Uruguay/San_José.secret.md)
 

@@ -132,15 +132,17 @@ Capital :: [[Uruguay/Counties/Montevideo/City/Montevideo]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\America~South\UruguayReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/America~South/Uruguay/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\America~South\UruguayReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/America~South/Uruguay/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\America~South\UruguayReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/America~South/Uruguay/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\America~South\UruguayReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/America~South/Uruguay/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\America~South\UruguayReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/America~South/Uruguay/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\America~South\UruguayReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/America~South/Uruguay/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/America~South/Uruguay/ReadMe.secret.md)
 

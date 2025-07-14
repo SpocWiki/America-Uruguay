@@ -41,15 +41,17 @@ markerFolder: ./Lavalleja/
 
 ## Confidential Links & Embeds: 
 
-### [Lavalleja.public](/_public/\Earth\Continent\America~South\Uruguay\departments~UruguayLavalleja.public.md) 
+### [Lavalleja](/_Standards/Earth/Continent/America~South/Uruguay/departments~Uruguay/Lavalleja.md) 
 
-### [Lavalleja.internal](/_internal/\Earth\Continent\America~South\Uruguay\departments~UruguayLavalleja.internal.md) 
+### [Lavalleja.public](/_public/Earth/Continent/America~South/Uruguay/departments~Uruguay/Lavalleja.public.md) 
 
-### [Lavalleja.protect](/_protect/\Earth\Continent\America~South\Uruguay\departments~UruguayLavalleja.protect.md) 
+### [Lavalleja.internal](/_internal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Lavalleja.internal.md) 
 
-### [Lavalleja.private](/_private/\Earth\Continent\America~South\Uruguay\departments~UruguayLavalleja.private.md) 
+### [Lavalleja.protect](/_protect/Earth/Continent/America~South/Uruguay/departments~Uruguay/Lavalleja.protect.md) 
 
-### [Lavalleja.personal](/_personal/\Earth\Continent\America~South\Uruguay\departments~UruguayLavalleja.personal.md) 
+### [Lavalleja.private](/_private/Earth/Continent/America~South/Uruguay/departments~Uruguay/Lavalleja.private.md) 
 
-### [Lavalleja.secret](/_secret/\Earth\Continent\America~South\Uruguay\departments~UruguayLavalleja.secret.md)
+### [Lavalleja.personal](/_personal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Lavalleja.personal.md) 
+
+### [Lavalleja.secret](/_secret/Earth/Continent/America~South/Uruguay/departments~Uruguay/Lavalleja.secret.md)
 

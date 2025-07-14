@@ -41,15 +41,17 @@ markerFolder: ./Artigas/
 
 ## Confidential Links & Embeds: 
 
-### [Artigas.public](/_public/\Earth\Continent\America~South\Uruguay\departments~UruguayArtigas.public.md) 
+### [Artigas](/_Standards/Earth/Continent/America~South/Uruguay/departments~Uruguay/Artigas.md) 
 
-### [Artigas.internal](/_internal/\Earth\Continent\America~South\Uruguay\departments~UruguayArtigas.internal.md) 
+### [Artigas.public](/_public/Earth/Continent/America~South/Uruguay/departments~Uruguay/Artigas.public.md) 
 
-### [Artigas.protect](/_protect/\Earth\Continent\America~South\Uruguay\departments~UruguayArtigas.protect.md) 
+### [Artigas.internal](/_internal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Artigas.internal.md) 
 
-### [Artigas.private](/_private/\Earth\Continent\America~South\Uruguay\departments~UruguayArtigas.private.md) 
+### [Artigas.protect](/_protect/Earth/Continent/America~South/Uruguay/departments~Uruguay/Artigas.protect.md) 
 
-### [Artigas.personal](/_personal/\Earth\Continent\America~South\Uruguay\departments~UruguayArtigas.personal.md) 
+### [Artigas.private](/_private/Earth/Continent/America~South/Uruguay/departments~Uruguay/Artigas.private.md) 
 
-### [Artigas.secret](/_secret/\Earth\Continent\America~South\Uruguay\departments~UruguayArtigas.secret.md)
+### [Artigas.personal](/_personal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Artigas.personal.md) 
+
+### [Artigas.secret](/_secret/Earth/Continent/America~South/Uruguay/departments~Uruguay/Artigas.secret.md)
 

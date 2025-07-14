@@ -41,15 +41,17 @@ markerFolder: ./Cerro_Largo/
 
 ## Confidential Links & Embeds: 
 
-### [Cerro_Largo.public](/_public/\Earth\Continent\America~South\Uruguay\departments~UruguayCerro_Largo.public.md) 
+### [Cerro_Largo](/_Standards/Earth/Continent/America~South/Uruguay/departments~Uruguay/Cerro_Largo.md) 
 
-### [Cerro_Largo.internal](/_internal/\Earth\Continent\America~South\Uruguay\departments~UruguayCerro_Largo.internal.md) 
+### [Cerro_Largo.public](/_public/Earth/Continent/America~South/Uruguay/departments~Uruguay/Cerro_Largo.public.md) 
 
-### [Cerro_Largo.protect](/_protect/\Earth\Continent\America~South\Uruguay\departments~UruguayCerro_Largo.protect.md) 
+### [Cerro_Largo.internal](/_internal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Cerro_Largo.internal.md) 
 
-### [Cerro_Largo.private](/_private/\Earth\Continent\America~South\Uruguay\departments~UruguayCerro_Largo.private.md) 
+### [Cerro_Largo.protect](/_protect/Earth/Continent/America~South/Uruguay/departments~Uruguay/Cerro_Largo.protect.md) 
 
-### [Cerro_Largo.personal](/_personal/\Earth\Continent\America~South\Uruguay\departments~UruguayCerro_Largo.personal.md) 
+### [Cerro_Largo.private](/_private/Earth/Continent/America~South/Uruguay/departments~Uruguay/Cerro_Largo.private.md) 
 
-### [Cerro_Largo.secret](/_secret/\Earth\Continent\America~South\Uruguay\departments~UruguayCerro_Largo.secret.md)
+### [Cerro_Largo.personal](/_personal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Cerro_Largo.personal.md) 
+
+### [Cerro_Largo.secret](/_secret/Earth/Continent/America~South/Uruguay/departments~Uruguay/Cerro_Largo.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Montevideo.public](/_public/\Earth\Continent\America~South\Uruguay\departments~Uruguay\Montevideo\CityMontevideo.public.md) 
+### [Montevideo](/_Standards/Earth/Continent/America~South/Uruguay/departments~Uruguay/Montevideo/City/Montevideo.md) 
 
-### [Montevideo.internal](/_internal/\Earth\Continent\America~South\Uruguay\departments~Uruguay\Montevideo\CityMontevideo.internal.md) 
+### [Montevideo.public](/_public/Earth/Continent/America~South/Uruguay/departments~Uruguay/Montevideo/City/Montevideo.public.md) 
 
-### [Montevideo.protect](/_protect/\Earth\Continent\America~South\Uruguay\departments~Uruguay\Montevideo\CityMontevideo.protect.md) 
+### [Montevideo.internal](/_internal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Montevideo/City/Montevideo.internal.md) 
 
-### [Montevideo.private](/_private/\Earth\Continent\America~South\Uruguay\departments~Uruguay\Montevideo\CityMontevideo.private.md) 
+### [Montevideo.protect](/_protect/Earth/Continent/America~South/Uruguay/departments~Uruguay/Montevideo/City/Montevideo.protect.md) 
 
-### [Montevideo.personal](/_personal/\Earth\Continent\America~South\Uruguay\departments~Uruguay\Montevideo\CityMontevideo.personal.md) 
+### [Montevideo.private](/_private/Earth/Continent/America~South/Uruguay/departments~Uruguay/Montevideo/City/Montevideo.private.md) 
 
-### [Montevideo.secret](/_secret/\Earth\Continent\America~South\Uruguay\departments~Uruguay\Montevideo\CityMontevideo.secret.md)
+### [Montevideo.personal](/_personal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Montevideo/City/Montevideo.personal.md) 
+
+### [Montevideo.secret](/_secret/Earth/Continent/America~South/Uruguay/departments~Uruguay/Montevideo/City/Montevideo.secret.md)
 

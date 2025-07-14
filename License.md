@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\America~South\UruguayLicense.public.md) 
+### [License](/_Standards/Earth/Continent/America~South/Uruguay/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\America~South\UruguayLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/America~South/Uruguay/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\America~South\UruguayLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/America~South/Uruguay/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\America~South\UruguayLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/America~South/Uruguay/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\America~South\UruguayLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/America~South/Uruguay/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\America~South\UruguayLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/America~South/Uruguay/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/America~South/Uruguay/License.secret.md)
 

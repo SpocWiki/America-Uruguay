@@ -41,15 +41,17 @@ markerFolder: ./Flores/
 
 ## Confidential Links & Embeds: 
 
-### [Flores.public](/_public/\Earth\Continent\America~South\Uruguay\departments~UruguayFlores.public.md) 
+### [Flores](/_Standards/Earth/Continent/America~South/Uruguay/departments~Uruguay/Flores.md) 
 
-### [Flores.internal](/_internal/\Earth\Continent\America~South\Uruguay\departments~UruguayFlores.internal.md) 
+### [Flores.public](/_public/Earth/Continent/America~South/Uruguay/departments~Uruguay/Flores.public.md) 
 
-### [Flores.protect](/_protect/\Earth\Continent\America~South\Uruguay\departments~UruguayFlores.protect.md) 
+### [Flores.internal](/_internal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Flores.internal.md) 
 
-### [Flores.private](/_private/\Earth\Continent\America~South\Uruguay\departments~UruguayFlores.private.md) 
+### [Flores.protect](/_protect/Earth/Continent/America~South/Uruguay/departments~Uruguay/Flores.protect.md) 
 
-### [Flores.personal](/_personal/\Earth\Continent\America~South\Uruguay\departments~UruguayFlores.personal.md) 
+### [Flores.private](/_private/Earth/Continent/America~South/Uruguay/departments~Uruguay/Flores.private.md) 
 
-### [Flores.secret](/_secret/\Earth\Continent\America~South\Uruguay\departments~UruguayFlores.secret.md)
+### [Flores.personal](/_personal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Flores.personal.md) 
+
+### [Flores.secret](/_secret/Earth/Continent/America~South/Uruguay/departments~Uruguay/Flores.secret.md)
 

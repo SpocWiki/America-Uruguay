@@ -41,15 +41,17 @@ markerFolder: ./Durazno/
 
 ## Confidential Links & Embeds: 
 
-### [Durazno.public](/_public/\Earth\Continent\America~South\Uruguay\departments~UruguayDurazno.public.md) 
+### [Durazno](/_Standards/Earth/Continent/America~South/Uruguay/departments~Uruguay/Durazno.md) 
 
-### [Durazno.internal](/_internal/\Earth\Continent\America~South\Uruguay\departments~UruguayDurazno.internal.md) 
+### [Durazno.public](/_public/Earth/Continent/America~South/Uruguay/departments~Uruguay/Durazno.public.md) 
 
-### [Durazno.protect](/_protect/\Earth\Continent\America~South\Uruguay\departments~UruguayDurazno.protect.md) 
+### [Durazno.internal](/_internal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Durazno.internal.md) 
 
-### [Durazno.private](/_private/\Earth\Continent\America~South\Uruguay\departments~UruguayDurazno.private.md) 
+### [Durazno.protect](/_protect/Earth/Continent/America~South/Uruguay/departments~Uruguay/Durazno.protect.md) 
 
-### [Durazno.personal](/_personal/\Earth\Continent\America~South\Uruguay\departments~UruguayDurazno.personal.md) 
+### [Durazno.private](/_private/Earth/Continent/America~South/Uruguay/departments~Uruguay/Durazno.private.md) 
 
-### [Durazno.secret](/_secret/\Earth\Continent\America~South\Uruguay\departments~UruguayDurazno.secret.md)
+### [Durazno.personal](/_personal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Durazno.personal.md) 
+
+### [Durazno.secret](/_secret/Earth/Continent/America~South/Uruguay/departments~Uruguay/Durazno.secret.md)
 

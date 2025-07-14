@@ -41,15 +41,17 @@ markerFolder: ./Soriano/
 
 ## Confidential Links & Embeds: 
 
-### [Soriano.public](/_public/\Earth\Continent\America~South\Uruguay\departments~UruguaySoriano.public.md) 
+### [Soriano](/_Standards/Earth/Continent/America~South/Uruguay/departments~Uruguay/Soriano.md) 
 
-### [Soriano.internal](/_internal/\Earth\Continent\America~South\Uruguay\departments~UruguaySoriano.internal.md) 
+### [Soriano.public](/_public/Earth/Continent/America~South/Uruguay/departments~Uruguay/Soriano.public.md) 
 
-### [Soriano.protect](/_protect/\Earth\Continent\America~South\Uruguay\departments~UruguaySoriano.protect.md) 
+### [Soriano.internal](/_internal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Soriano.internal.md) 
 
-### [Soriano.private](/_private/\Earth\Continent\America~South\Uruguay\departments~UruguaySoriano.private.md) 
+### [Soriano.protect](/_protect/Earth/Continent/America~South/Uruguay/departments~Uruguay/Soriano.protect.md) 
 
-### [Soriano.personal](/_personal/\Earth\Continent\America~South\Uruguay\departments~UruguaySoriano.personal.md) 
+### [Soriano.private](/_private/Earth/Continent/America~South/Uruguay/departments~Uruguay/Soriano.private.md) 
 
-### [Soriano.secret](/_secret/\Earth\Continent\America~South\Uruguay\departments~UruguaySoriano.secret.md)
+### [Soriano.personal](/_personal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Soriano.personal.md) 
+
+### [Soriano.secret](/_secret/Earth/Continent/America~South/Uruguay/departments~Uruguay/Soriano.secret.md)
 
