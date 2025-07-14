@@ -41,11 +41,16 @@ markerFolder: ./San_José/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Uruguay/Counties/San_José|San_José]] 
-- [[../../../../../../_public/geo/Continent/America~South/Uruguay/Counties/San_José.public|San_José.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Uruguay/Counties/San_José.internal|San_José.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Uruguay/Counties/San_José.protect|San_José.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Uruguay/Counties/San_José.private|San_José.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Uruguay/Counties/San_José.personal|San_José.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Uruguay/Counties/San_José.secret|San_José.secret]] 
+
+### [San_José.public](/_public/\Earth\Continent\America~South\Uruguay\departments~UruguaySan_José.public.md) 
+
+### [San_José.internal](/_internal/\Earth\Continent\America~South\Uruguay\departments~UruguaySan_José.internal.md) 
+
+### [San_José.protect](/_protect/\Earth\Continent\America~South\Uruguay\departments~UruguaySan_José.protect.md) 
+
+### [San_José.private](/_private/\Earth\Continent\America~South\Uruguay\departments~UruguaySan_José.private.md) 
+
+### [San_José.personal](/_personal/\Earth\Continent\America~South\Uruguay\departments~UruguaySan_José.personal.md) 
+
+### [San_José.secret](/_secret/\Earth\Continent\America~South\Uruguay\departments~UruguaySan_José.secret.md)
 

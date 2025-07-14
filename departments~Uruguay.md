@@ -13,3 +13,20 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [departments~Uruguay.public](/_public/\Earth\Continent\America~South\Uruguaydepartments~Uruguay.public.md) 
+
+### [departments~Uruguay.internal](/_internal/\Earth\Continent\America~South\Uruguaydepartments~Uruguay.internal.md) 
+
+### [departments~Uruguay.protect](/_protect/\Earth\Continent\America~South\Uruguaydepartments~Uruguay.protect.md) 
+
+### [departments~Uruguay.private](/_private/\Earth\Continent\America~South\Uruguaydepartments~Uruguay.private.md) 
+
+### [departments~Uruguay.personal](/_personal/\Earth\Continent\America~South\Uruguaydepartments~Uruguay.personal.md) 
+
+### [departments~Uruguay.secret](/_secret/\Earth\Continent\America~South\Uruguaydepartments~Uruguay.secret.md)
+

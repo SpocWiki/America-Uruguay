@@ -40,11 +40,16 @@ markerFolder: ./Cerro_Largo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Uruguay/Counties/Cerro_Largo|Cerro_Largo]] 
-- [[../../../../../../_public/geo/Continent/America~South/Uruguay/Counties/Cerro_Largo.public|Cerro_Largo.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Cerro_Largo.internal|Cerro_Largo.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Cerro_Largo.protect|Cerro_Largo.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Uruguay/Counties/Cerro_Largo.private|Cerro_Largo.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Cerro_Largo.personal|Cerro_Largo.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Cerro_Largo.secret|Cerro_Largo.secret]] 
+
+### [Cerro_Largo.public](/_public/\Earth\Continent\America~South\Uruguay\departments~UruguayCerro_Largo.public.md) 
+
+### [Cerro_Largo.internal](/_internal/\Earth\Continent\America~South\Uruguay\departments~UruguayCerro_Largo.internal.md) 
+
+### [Cerro_Largo.protect](/_protect/\Earth\Continent\America~South\Uruguay\departments~UruguayCerro_Largo.protect.md) 
+
+### [Cerro_Largo.private](/_private/\Earth\Continent\America~South\Uruguay\departments~UruguayCerro_Largo.private.md) 
+
+### [Cerro_Largo.personal](/_personal/\Earth\Continent\America~South\Uruguay\departments~UruguayCerro_Largo.personal.md) 
+
+### [Cerro_Largo.secret](/_secret/\Earth\Continent\America~South\Uruguay\departments~UruguayCerro_Largo.secret.md)
 

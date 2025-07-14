@@ -41,11 +41,16 @@ markerFolder: ./Florida/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Uruguay/Counties/Florida|Florida]] 
-- [[../../../../../../_public/geo/Continent/America~South/Uruguay/Counties/Florida.public|Florida.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Florida.internal|Florida.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Florida.protect|Florida.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Uruguay/Counties/Florida.private|Florida.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Florida.personal|Florida.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Florida.secret|Florida.secret]] 
+
+### [Florida_Department.public](/_public/\Earth\Continent\America~South\Uruguay\departments~UruguayFlorida_Department.public.md) 
+
+### [Florida_Department.internal](/_internal/\Earth\Continent\America~South\Uruguay\departments~UruguayFlorida_Department.internal.md) 
+
+### [Florida_Department.protect](/_protect/\Earth\Continent\America~South\Uruguay\departments~UruguayFlorida_Department.protect.md) 
+
+### [Florida_Department.private](/_private/\Earth\Continent\America~South\Uruguay\departments~UruguayFlorida_Department.private.md) 
+
+### [Florida_Department.personal](/_personal/\Earth\Continent\America~South\Uruguay\departments~UruguayFlorida_Department.personal.md) 
+
+### [Florida_Department.secret](/_secret/\Earth\Continent\America~South\Uruguay\departments~UruguayFlorida_Department.secret.md)
 

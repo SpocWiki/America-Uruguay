@@ -40,11 +40,16 @@ markerFolder: ./Rivera/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Uruguay/Counties/Rivera|Rivera]] 
-- [[../../../../../../_public/geo/Continent/America~South/Uruguay/Counties/Rivera.public|Rivera.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Rivera.internal|Rivera.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Rivera.protect|Rivera.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Uruguay/Counties/Rivera.private|Rivera.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Rivera.personal|Rivera.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Rivera.secret|Rivera.secret]] 
+
+### [Rivera.public](/_public/\Earth\Continent\America~South\Uruguay\departments~UruguayRivera.public.md) 
+
+### [Rivera.internal](/_internal/\Earth\Continent\America~South\Uruguay\departments~UruguayRivera.internal.md) 
+
+### [Rivera.protect](/_protect/\Earth\Continent\America~South\Uruguay\departments~UruguayRivera.protect.md) 
+
+### [Rivera.private](/_private/\Earth\Continent\America~South\Uruguay\departments~UruguayRivera.private.md) 
+
+### [Rivera.personal](/_personal/\Earth\Continent\America~South\Uruguay\departments~UruguayRivera.personal.md) 
+
+### [Rivera.secret](/_secret/\Earth\Continent\America~South\Uruguay\departments~UruguayRivera.secret.md)
 

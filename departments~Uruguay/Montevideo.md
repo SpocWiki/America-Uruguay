@@ -40,11 +40,16 @@ markerFolder: ./Montevideo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Uruguay/Counties/Montevideo|Montevideo]] 
-- [[../../../../../../_public/geo/Continent/America~South/Uruguay/Counties/Montevideo.public|Montevideo.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Montevideo.internal|Montevideo.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Montevideo.protect|Montevideo.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Uruguay/Counties/Montevideo.private|Montevideo.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Montevideo.personal|Montevideo.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Montevideo.secret|Montevideo.secret]] 
+
+### [Montevideo.public](/_public/\Earth\Continent\America~South\Uruguay\departments~UruguayMontevideo.public.md) 
+
+### [Montevideo.internal](/_internal/\Earth\Continent\America~South\Uruguay\departments~UruguayMontevideo.internal.md) 
+
+### [Montevideo.protect](/_protect/\Earth\Continent\America~South\Uruguay\departments~UruguayMontevideo.protect.md) 
+
+### [Montevideo.private](/_private/\Earth\Continent\America~South\Uruguay\departments~UruguayMontevideo.private.md) 
+
+### [Montevideo.personal](/_personal/\Earth\Continent\America~South\Uruguay\departments~UruguayMontevideo.personal.md) 
+
+### [Montevideo.secret](/_secret/\Earth\Continent\America~South\Uruguay\departments~UruguayMontevideo.secret.md)
 

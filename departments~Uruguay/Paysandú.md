@@ -40,11 +40,16 @@ markerFolder: ./Paysandú/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Uruguay/Counties/Paysandú|Paysandú]] 
-- [[../../../../../../_public/geo/Continent/America~South/Uruguay/Counties/Paysandú.public|Paysandú.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Uruguay/Counties/Paysandú.internal|Paysandú.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Uruguay/Counties/Paysandú.protect|Paysandú.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Uruguay/Counties/Paysandú.private|Paysandú.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Uruguay/Counties/Paysandú.personal|Paysandú.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Uruguay/Counties/Paysandú.secret|Paysandú.secret]] 
+
+### [Paysandú.public](/_public/\Earth\Continent\America~South\Uruguay\departments~UruguayPaysandú.public.md) 
+
+### [Paysandú.internal](/_internal/\Earth\Continent\America~South\Uruguay\departments~UruguayPaysandú.internal.md) 
+
+### [Paysandú.protect](/_protect/\Earth\Continent\America~South\Uruguay\departments~UruguayPaysandú.protect.md) 
+
+### [Paysandú.private](/_private/\Earth\Continent\America~South\Uruguay\departments~UruguayPaysandú.private.md) 
+
+### [Paysandú.personal](/_personal/\Earth\Continent\America~South\Uruguay\departments~UruguayPaysandú.personal.md) 
+
+### [Paysandú.secret](/_secret/\Earth\Continent\America~South\Uruguay\departments~UruguayPaysandú.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-34.91,-56.17] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Uruguay/City/Montevideo|Montevideo]] 
-- [[../../../../../../_public/geo/Continent/America~South/Uruguay/City/Montevideo.public|Montevideo.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Uruguay/City/Montevideo.internal|Montevideo.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Uruguay/City/Montevideo.protect|Montevideo.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Uruguay/City/Montevideo.private|Montevideo.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Uruguay/City/Montevideo.personal|Montevideo.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Uruguay/City/Montevideo.secret|Montevideo.secret]] 
+
+### [Montevideo.public](/_public/\Earth\Continent\America~South\Uruguay\departments~Uruguay\Montevideo\CityMontevideo.public.md) 
+
+### [Montevideo.internal](/_internal/\Earth\Continent\America~South\Uruguay\departments~Uruguay\Montevideo\CityMontevideo.internal.md) 
+
+### [Montevideo.protect](/_protect/\Earth\Continent\America~South\Uruguay\departments~Uruguay\Montevideo\CityMontevideo.protect.md) 
+
+### [Montevideo.private](/_private/\Earth\Continent\America~South\Uruguay\departments~Uruguay\Montevideo\CityMontevideo.private.md) 
+
+### [Montevideo.personal](/_personal/\Earth\Continent\America~South\Uruguay\departments~Uruguay\Montevideo\CityMontevideo.personal.md) 
+
+### [Montevideo.secret](/_secret/\Earth\Continent\America~South\Uruguay\departments~Uruguay\Montevideo\CityMontevideo.secret.md)
+

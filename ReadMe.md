@@ -130,11 +130,17 @@ Capital :: [[Uruguay/Counties/Montevideo/City/Montevideo]]
 [has_place_latitude::-34.91] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[Uruguay|Uruguay]] 
-- [[../../../../_internal/geo/Continent/America~South/Uruguay.internal|Uruguay.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Uruguay.protect|Uruguay.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Uruguay.private|Uruguay.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Uruguay.personal|Uruguay.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Uruguay.secret|Uruguay.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\America~South\UruguayReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\America~South\UruguayReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\America~South\UruguayReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\America~South\UruguayReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\America~South\UruguayReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\America~South\UruguayReadMe.secret.md)
+
