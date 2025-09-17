@@ -117,11 +117,11 @@ markerFolder: ./
 Continent :: [[South-America]]  
 [VehicleCode::ROU] 
 Capital :: [[Uruguay/Counties/Montevideo/City/Montevideo]]  
-![[Uruguay/Coat_of_arms_of_Uruguay.svg|350]] 
+![[Coat_of_arms_of_Uruguay.svg|350]] 
 
 ![[../../../xLarge/National-Anthem/Anthem-Uruguay.mp3]] 
 
-![[Uruguay/Flag_of_Uruguay.svg|350]] 
+![[Flag_of_Uruguay.svg|350]] 
 
 [Alcohol-l::8.1] 
 [Language-Id::492] 
