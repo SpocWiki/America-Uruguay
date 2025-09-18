@@ -32,7 +32,7 @@ expiryDate:
 ```leaflet
 id: Treinta_y_Tres
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Treinta_y_Tres/
 markerFolder: ./Treinta_y_Tres/

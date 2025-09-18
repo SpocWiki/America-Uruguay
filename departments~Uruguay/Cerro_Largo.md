@@ -32,7 +32,7 @@ expiryDate:
 ```leaflet
 id: Cerro_Largo
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Cerro_Largo/
 markerFolder: ./Cerro_Largo/

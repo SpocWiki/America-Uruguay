@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Paysandú
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Paysandú/
 markerFolder: ./Paysandú/

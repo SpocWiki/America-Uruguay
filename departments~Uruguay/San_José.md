@@ -32,7 +32,7 @@ expiryDate:
 ```leaflet
 id: San_José
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./San_José/
 markerFolder: ./San_José/

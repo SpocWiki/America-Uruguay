@@ -35,7 +35,7 @@ expiryDate:
 ```leaflet
 id: Río_Negro
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Río_Negro/
 markerFolder: ./Río_Negro/
