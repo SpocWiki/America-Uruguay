@@ -1,14 +1,17 @@
 ---
-location: [-34.91,-56.17] 
-mapzoom: [7,12] 
-mapmarker: city 
+location:
+  - -34.91
+  - -56.17
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 title: Montevideo
 license: CC BY-SA 4.0
 tags:
-- geo/City
-- geo/Country/Region
-
+  - geo/City
+  - geo/Country/Region
 SpocWebEntityId: 32581
 source: https://datahub.io/core/country-codes
 isDeleted: false
@@ -37,7 +40,7 @@ expiryDate:
 [has_place_latitude::-34.91] 
 [name::Montevideo] 
 State ::  
-Country :: [[../../../../Uruguay]]  
+Country :: [[../../Uruguay|Uruguay]]   
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -54,19 +57,19 @@ defaultZoom: 11
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Montevideo/
+geojsonFolder: ./Montevideo//
 markerFolder: ./Montevideo/
 ```
 
 ## #has_/text_of_/abstract 
 
-> **Montevideo** (Spanish: [monteßi'ðeo]) is the capital and largest city of Uruguay. 
+> **Montevideo** (Spanish: [monteÎ²iËˆÃ°eo]) is the capital and largest city of Uruguay. 
 > 
 > According to the 2023 census, the city proper has a population of 1,302,954 
 > (about 37.2% of the country's total population) in an area of 201 square kilometers (78 sq mi). 
 > 
 > Montevideo is situated on the southern coast of the country, 
-> on the northeastern bank of the Río de la Plata.
+> on the northeastern bank of the RÃ­o de la Plata.
 >
 > A Portuguese garrison was established in the place where today is the city of Montevideo in November 1723. The Portuguese garrison was expelled in February 1724 by a Spanish soldier, Bruno Mauricio de Zabala, as a strategic move amidst the Spanish-Portuguese dispute over the platine region. There is no official document establishing the foundation of the city, but the "Diario" of Bruno Mauricio de Zabala officially mentions the date of 24 December 1726 as the foundation, corroborated by presential witnesses. The complete independence from Buenos Aires as a real city was not reached until 1 January 1730. It was also under brief British rule in 1807, but eventually the city was retaken by Spanish  criollos who defeated the British invasions of the River Plate. Montevideo is the seat of the administrative headquarters of Mercosur and ALADI, Latin America's leading trade blocs, a position that entailed comparisons to the role of Brussels in Europe.
 >
