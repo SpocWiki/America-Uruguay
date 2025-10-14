@@ -43,7 +43,7 @@ State ::
 Country :: [[../../Uruguay|Uruguay]]   
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Montevideo,1335|WD~Montevideo,1335]] 
 
