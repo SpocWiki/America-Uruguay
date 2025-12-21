@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Montevideo
 location:
   - -34.91
   - -56.17
@@ -18,18 +20,16 @@ isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-aliases:
-  - Montevideo
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Montevideo]] 

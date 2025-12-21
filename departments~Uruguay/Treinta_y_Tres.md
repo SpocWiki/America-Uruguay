@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Treinta_y_Tres
+  - Treinta y Tres
 location:
   - -33.1
   - -54.3
@@ -12,19 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Treinta_y_Tres
-  - Treinta y Tres
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Treinta_y_Tres

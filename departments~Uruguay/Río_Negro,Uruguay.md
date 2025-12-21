@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Río_Negro
+  - Río Negro
+  - Rio Negro
+  - Río_Negro,Uruguay
+  - Río Negro,Uruguay
 location:
   - -32.9
   - -57.4
@@ -12,20 +18,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Río_Negro
-  - Río Negro
-  - Rio Negro
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Río_Negro,Uruguay]] 

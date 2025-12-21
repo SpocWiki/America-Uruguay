@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Uruguay
+  - أوروغواي
+  - 乌拉圭
+  - Уругвай
+  - the Eastern Republic of Uruguay
+  - la República Oriental del Uruguay
+  - Uruguay (el)
+  - ReadMe
 location:
   - -34.91
   - -56.17
@@ -15,20 +24,12 @@ cssclasses:
   - Country
 publish: true
 title: Uruguay
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Uruguay
-  - أوروغواي
-  - 乌拉圭
-  - Уругвай
-  - the Eastern Republic of Uruguay
-  - la República Oriental del Uruguay
-  - Uruguay (el)
+publishDate: ''
+expiryDate: ''
 Languages:
   - es-UY
 ---
