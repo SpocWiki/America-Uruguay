@@ -41,17 +41,17 @@ markerFolder: ./Cerro_Largo/
 
 ## Confidential Links & Embeds: 
 
-### [Cerro_Largo](/_Standards/Earth/Continent/America~South/Uruguay/departments~Uruguay/Cerro_Largo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Cerro_Largo|Cerro_Largo]] 
 
-### [Cerro_Largo.public](/_public/Earth/Continent/America~South/Uruguay/departments~Uruguay/Cerro_Largo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Cerro_Largo.public|Cerro_Largo.public]] 
 
-### [Cerro_Largo.internal](/_internal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Cerro_Largo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Cerro_Largo.internal|Cerro_Largo.internal]] 
 
-### [Cerro_Largo.protect](/_protect/Earth/Continent/America~South/Uruguay/departments~Uruguay/Cerro_Largo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Cerro_Largo.protect|Cerro_Largo.protect]] 
 
-### [Cerro_Largo.private](/_private/Earth/Continent/America~South/Uruguay/departments~Uruguay/Cerro_Largo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Cerro_Largo.private|Cerro_Largo.private]] 
 
-### [Cerro_Largo.personal](/_personal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Cerro_Largo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Cerro_Largo.personal|Cerro_Largo.personal]] 
 
-### [Cerro_Largo.secret](/_secret/Earth/Continent/America~South/Uruguay/departments~Uruguay/Cerro_Largo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Cerro_Largo.secret|Cerro_Largo.secret]] 
 

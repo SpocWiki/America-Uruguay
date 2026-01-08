@@ -46,17 +46,17 @@ markerFolder: ./Río_Negro/
 
 ## Confidential Links & Embeds: 
 
-### [Río_Negro](/_Standards/Earth/Continent/America~South/Uruguay/departments~Uruguay/Río_Negro.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Río_Negro,Uruguay|Río_Negro,Uruguay]] 
 
-### [Río_Negro.public](/_public/Earth/Continent/America~South/Uruguay/departments~Uruguay/Río_Negro.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Río_Negro,Uruguay.public|Río_Negro,Uruguay.public]] 
 
-### [Río_Negro.internal](/_internal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Río_Negro.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Río_Negro,Uruguay.internal|Río_Negro,Uruguay.internal]] 
 
-### [Río_Negro.protect](/_protect/Earth/Continent/America~South/Uruguay/departments~Uruguay/Río_Negro.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Río_Negro,Uruguay.protect|Río_Negro,Uruguay.protect]] 
 
-### [Río_Negro.private](/_private/Earth/Continent/America~South/Uruguay/departments~Uruguay/Río_Negro.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Río_Negro,Uruguay.private|Río_Negro,Uruguay.private]] 
 
-### [Río_Negro.personal](/_personal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Río_Negro.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Río_Negro,Uruguay.personal|Río_Negro,Uruguay.personal]] 
 
-### [Río_Negro.secret](/_secret/Earth/Continent/America~South/Uruguay/departments~Uruguay/Río_Negro.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Río_Negro,Uruguay.secret|Río_Negro,Uruguay.secret]] 
 

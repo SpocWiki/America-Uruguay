@@ -25,27 +25,35 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -56.17
+dv_has_place_latitude: -34.91
+dv_name: Montevideo
+dv_Country: "[[../../Uruguay|Uruguay]]"
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Montevideo,1335|WD~Montevideo,1335]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Montevideo,1335|WD~Montevideo,1335]]"
 ---
 
 # [[Montevideo]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-56.17] 
-[has_place_latitude::-34.91] 
-[name::Montevideo] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Uruguay|Uruguay]]   
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Montevideo,1335|WD~Montevideo,1335]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -84,17 +92,17 @@ markerFolder: ./Montevideo/
 
 ## Confidential Links & Embeds: 
 
-### [Montevideo](/_Standards/Earth/Continent/America~South/Uruguay/departments~Uruguay/Montevideo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Montevideo|Montevideo]] 
 
-### [Montevideo.public](/_public/Earth/Continent/America~South/Uruguay/departments~Uruguay/Montevideo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Montevideo.public|Montevideo.public]] 
 
-### [Montevideo.internal](/_internal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Montevideo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Montevideo.internal|Montevideo.internal]] 
 
-### [Montevideo.protect](/_protect/Earth/Continent/America~South/Uruguay/departments~Uruguay/Montevideo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Montevideo.protect|Montevideo.protect]] 
 
-### [Montevideo.private](/_private/Earth/Continent/America~South/Uruguay/departments~Uruguay/Montevideo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Montevideo.private|Montevideo.private]] 
 
-### [Montevideo.personal](/_personal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Montevideo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Montevideo.personal|Montevideo.personal]] 
 
-### [Montevideo.secret](/_secret/Earth/Continent/America~South/Uruguay/departments~Uruguay/Montevideo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Montevideo.secret|Montevideo.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Colonia/
 
 ## Confidential Links & Embeds: 
 
-### [Colonia](/_Standards/Earth/Continent/America~South/Uruguay/departments~Uruguay/Colonia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Colonia|Colonia]] 
 
-### [Colonia.public](/_public/Earth/Continent/America~South/Uruguay/departments~Uruguay/Colonia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Colonia.public|Colonia.public]] 
 
-### [Colonia.internal](/_internal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Colonia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Colonia.internal|Colonia.internal]] 
 
-### [Colonia.protect](/_protect/Earth/Continent/America~South/Uruguay/departments~Uruguay/Colonia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Colonia.protect|Colonia.protect]] 
 
-### [Colonia.private](/_private/Earth/Continent/America~South/Uruguay/departments~Uruguay/Colonia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Colonia.private|Colonia.private]] 
 
-### [Colonia.personal](/_personal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Colonia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Colonia.personal|Colonia.personal]] 
 
-### [Colonia.secret](/_secret/Earth/Continent/America~South/Uruguay/departments~Uruguay/Colonia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Colonia.secret|Colonia.secret]] 
 

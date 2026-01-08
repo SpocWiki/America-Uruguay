@@ -40,17 +40,17 @@ markerFolder: ./Rocha/
 
 ## Confidential Links & Embeds: 
 
-### [Rocha](/_Standards/Earth/Continent/America~South/Uruguay/departments~Uruguay/Rocha.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Rocha|Rocha]] 
 
-### [Rocha.public](/_public/Earth/Continent/America~South/Uruguay/departments~Uruguay/Rocha.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Rocha.public|Rocha.public]] 
 
-### [Rocha.internal](/_internal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Rocha.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Rocha.internal|Rocha.internal]] 
 
-### [Rocha.protect](/_protect/Earth/Continent/America~South/Uruguay/departments~Uruguay/Rocha.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Rocha.protect|Rocha.protect]] 
 
-### [Rocha.private](/_private/Earth/Continent/America~South/Uruguay/departments~Uruguay/Rocha.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Rocha.private|Rocha.private]] 
 
-### [Rocha.personal](/_personal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Rocha.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Rocha.personal|Rocha.personal]] 
 
-### [Rocha.secret](/_secret/Earth/Continent/America~South/Uruguay/departments~Uruguay/Rocha.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Rocha.secret|Rocha.secret]] 
 

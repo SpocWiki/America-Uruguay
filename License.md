@@ -113,17 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License](/_Standards/Earth/Continent/America~South/Uruguay/License.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Uruguay/License|License]] 
 
-### [License.public](/_public/Earth/Continent/America~South/Uruguay/License.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Uruguay/License.public|License.public]] 
 
-### [License.internal](/_internal/Earth/Continent/America~South/Uruguay/License.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Uruguay/License.internal|License.internal]] 
 
-### [License.protect](/_protect/Earth/Continent/America~South/Uruguay/License.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Uruguay/License.protect|License.protect]] 
 
-### [License.private](/_private/Earth/Continent/America~South/Uruguay/License.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Uruguay/License.private|License.private]] 
 
-### [License.personal](/_personal/Earth/Continent/America~South/Uruguay/License.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Uruguay/License.personal|License.personal]] 
 
-### [License.secret](/_secret/Earth/Continent/America~South/Uruguay/License.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Uruguay/License.secret|License.secret]] 
 

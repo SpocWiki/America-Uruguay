@@ -43,17 +43,17 @@ markerFolder: ./Florida/
 
 ## Confidential Links & Embeds: 
 
-### [Florida_Department](/_Standards/Earth/Continent/America~South/Uruguay/departments~Uruguay/Florida_Department.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Florida_Department|Florida_Department]] 
 
-### [Florida_Department.public](/_public/Earth/Continent/America~South/Uruguay/departments~Uruguay/Florida_Department.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Florida_Department.public|Florida_Department.public]] 
 
-### [Florida_Department.internal](/_internal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Florida_Department.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Florida_Department.internal|Florida_Department.internal]] 
 
-### [Florida_Department.protect](/_protect/Earth/Continent/America~South/Uruguay/departments~Uruguay/Florida_Department.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Florida_Department.protect|Florida_Department.protect]] 
 
-### [Florida_Department.private](/_private/Earth/Continent/America~South/Uruguay/departments~Uruguay/Florida_Department.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Florida_Department.private|Florida_Department.private]] 
 
-### [Florida_Department.personal](/_personal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Florida_Department.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Florida_Department.personal|Florida_Department.personal]] 
 
-### [Florida_Department.secret](/_secret/Earth/Continent/America~South/Uruguay/departments~Uruguay/Florida_Department.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Florida_Department.secret|Florida_Department.secret]] 
 

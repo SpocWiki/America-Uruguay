@@ -40,17 +40,17 @@ markerFolder: ./Tacuarembó/
 
 ## Confidential Links & Embeds: 
 
-### [Tacuarembó](/_Standards/Earth/Continent/America~South/Uruguay/departments~Uruguay/Tacuarembó.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Tacuarembó|Tacuarembó]] 
 
-### [Tacuarembó.public](/_public/Earth/Continent/America~South/Uruguay/departments~Uruguay/Tacuarembó.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Tacuarembó.public|Tacuarembó.public]] 
 
-### [Tacuarembó.internal](/_internal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Tacuarembó.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Tacuarembó.internal|Tacuarembó.internal]] 
 
-### [Tacuarembó.protect](/_protect/Earth/Continent/America~South/Uruguay/departments~Uruguay/Tacuarembó.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Tacuarembó.protect|Tacuarembó.protect]] 
 
-### [Tacuarembó.private](/_private/Earth/Continent/America~South/Uruguay/departments~Uruguay/Tacuarembó.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Tacuarembó.private|Tacuarembó.private]] 
 
-### [Tacuarembó.personal](/_personal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Tacuarembó.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Tacuarembó.personal|Tacuarembó.personal]] 
 
-### [Tacuarembó.secret](/_secret/Earth/Continent/America~South/Uruguay/departments~Uruguay/Tacuarembó.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Tacuarembó.secret|Tacuarembó.secret]] 
 

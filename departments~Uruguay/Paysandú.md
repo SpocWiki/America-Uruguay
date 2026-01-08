@@ -40,17 +40,17 @@ markerFolder: ./Paysandú/
 
 ## Confidential Links & Embeds: 
 
-### [Paysandú](/_Standards/Earth/Continent/America~South/Uruguay/departments~Uruguay/Paysandú.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Paysandú|Paysandú]] 
 
-### [Paysandú.public](/_public/Earth/Continent/America~South/Uruguay/departments~Uruguay/Paysandú.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Paysandú.public|Paysandú.public]] 
 
-### [Paysandú.internal](/_internal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Paysandú.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Paysandú.internal|Paysandú.internal]] 
 
-### [Paysandú.protect](/_protect/Earth/Continent/America~South/Uruguay/departments~Uruguay/Paysandú.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Paysandú.protect|Paysandú.protect]] 
 
-### [Paysandú.private](/_private/Earth/Continent/America~South/Uruguay/departments~Uruguay/Paysandú.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Paysandú.private|Paysandú.private]] 
 
-### [Paysandú.personal](/_personal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Paysandú.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Paysandú.personal|Paysandú.personal]] 
 
-### [Paysandú.secret](/_secret/Earth/Continent/America~South/Uruguay/departments~Uruguay/Paysandú.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Paysandú.secret|Paysandú.secret]] 
 

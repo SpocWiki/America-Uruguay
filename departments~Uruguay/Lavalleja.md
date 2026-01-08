@@ -40,17 +40,17 @@ markerFolder: ./Lavalleja/
 
 ## Confidential Links & Embeds: 
 
-### [Lavalleja](/_Standards/Earth/Continent/America~South/Uruguay/departments~Uruguay/Lavalleja.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Lavalleja|Lavalleja]] 
 
-### [Lavalleja.public](/_public/Earth/Continent/America~South/Uruguay/departments~Uruguay/Lavalleja.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Lavalleja.public|Lavalleja.public]] 
 
-### [Lavalleja.internal](/_internal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Lavalleja.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Lavalleja.internal|Lavalleja.internal]] 
 
-### [Lavalleja.protect](/_protect/Earth/Continent/America~South/Uruguay/departments~Uruguay/Lavalleja.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Lavalleja.protect|Lavalleja.protect]] 
 
-### [Lavalleja.private](/_private/Earth/Continent/America~South/Uruguay/departments~Uruguay/Lavalleja.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Lavalleja.private|Lavalleja.private]] 
 
-### [Lavalleja.personal](/_personal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Lavalleja.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Lavalleja.personal|Lavalleja.personal]] 
 
-### [Lavalleja.secret](/_secret/Earth/Continent/America~South/Uruguay/departments~Uruguay/Lavalleja.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Lavalleja.secret|Lavalleja.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Salto/
 
 ## Confidential Links & Embeds: 
 
-### [Salto](/_Standards/Earth/Continent/America~South/Uruguay/departments~Uruguay/Salto.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Salto|Salto]] 
 
-### [Salto.public](/_public/Earth/Continent/America~South/Uruguay/departments~Uruguay/Salto.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Salto.public|Salto.public]] 
 
-### [Salto.internal](/_internal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Salto.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Salto.internal|Salto.internal]] 
 
-### [Salto.protect](/_protect/Earth/Continent/America~South/Uruguay/departments~Uruguay/Salto.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Salto.protect|Salto.protect]] 
 
-### [Salto.private](/_private/Earth/Continent/America~South/Uruguay/departments~Uruguay/Salto.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Salto.private|Salto.private]] 
 
-### [Salto.personal](/_personal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Salto.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Salto.personal|Salto.personal]] 
 
-### [Salto.secret](/_secret/Earth/Continent/America~South/Uruguay/departments~Uruguay/Salto.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Salto.secret|Salto.secret]] 
 

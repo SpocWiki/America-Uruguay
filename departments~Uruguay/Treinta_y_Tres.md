@@ -41,17 +41,17 @@ markerFolder: ./Treinta_y_Tres/
 
 ## Confidential Links & Embeds: 
 
-### [Treinta_y_Tres](/_Standards/Earth/Continent/America~South/Uruguay/departments~Uruguay/Treinta_y_Tres.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Treinta_y_Tres|Treinta_y_Tres]] 
 
-### [Treinta_y_Tres.public](/_public/Earth/Continent/America~South/Uruguay/departments~Uruguay/Treinta_y_Tres.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Treinta_y_Tres.public|Treinta_y_Tres.public]] 
 
-### [Treinta_y_Tres.internal](/_internal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Treinta_y_Tres.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Treinta_y_Tres.internal|Treinta_y_Tres.internal]] 
 
-### [Treinta_y_Tres.protect](/_protect/Earth/Continent/America~South/Uruguay/departments~Uruguay/Treinta_y_Tres.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Treinta_y_Tres.protect|Treinta_y_Tres.protect]] 
 
-### [Treinta_y_Tres.private](/_private/Earth/Continent/America~South/Uruguay/departments~Uruguay/Treinta_y_Tres.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Treinta_y_Tres.private|Treinta_y_Tres.private]] 
 
-### [Treinta_y_Tres.personal](/_personal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Treinta_y_Tres.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Treinta_y_Tres.personal|Treinta_y_Tres.personal]] 
 
-### [Treinta_y_Tres.secret](/_secret/Earth/Continent/America~South/Uruguay/departments~Uruguay/Treinta_y_Tres.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Treinta_y_Tres.secret|Treinta_y_Tres.secret]] 
 

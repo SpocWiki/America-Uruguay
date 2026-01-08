@@ -41,17 +41,17 @@ markerFolder: ./San_José/
 
 ## Confidential Links & Embeds: 
 
-### [San_José](/_Standards/Earth/Continent/America~South/Uruguay/departments~Uruguay/San_José.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/San_José|San_José]] 
 
-### [San_José.public](/_public/Earth/Continent/America~South/Uruguay/departments~Uruguay/San_José.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/San_José.public|San_José.public]] 
 
-### [San_José.internal](/_internal/Earth/Continent/America~South/Uruguay/departments~Uruguay/San_José.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/San_José.internal|San_José.internal]] 
 
-### [San_José.protect](/_protect/Earth/Continent/America~South/Uruguay/departments~Uruguay/San_José.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/San_José.protect|San_José.protect]] 
 
-### [San_José.private](/_private/Earth/Continent/America~South/Uruguay/departments~Uruguay/San_José.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/San_José.private|San_José.private]] 
 
-### [San_José.personal](/_personal/Earth/Continent/America~South/Uruguay/departments~Uruguay/San_José.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/San_José.personal|San_José.personal]] 
 
-### [San_José.secret](/_secret/Earth/Continent/America~South/Uruguay/departments~Uruguay/San_José.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/San_José.secret|San_José.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Maldonado/
 
 ## Confidential Links & Embeds: 
 
-### [Maldonado](/_Standards/Earth/Continent/America~South/Uruguay/departments~Uruguay/Maldonado.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Maldonado|Maldonado]] 
 
-### [Maldonado.public](/_public/Earth/Continent/America~South/Uruguay/departments~Uruguay/Maldonado.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Maldonado.public|Maldonado.public]] 
 
-### [Maldonado.internal](/_internal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Maldonado.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Maldonado.internal|Maldonado.internal]] 
 
-### [Maldonado.protect](/_protect/Earth/Continent/America~South/Uruguay/departments~Uruguay/Maldonado.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Maldonado.protect|Maldonado.protect]] 
 
-### [Maldonado.private](/_private/Earth/Continent/America~South/Uruguay/departments~Uruguay/Maldonado.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Maldonado.private|Maldonado.private]] 
 
-### [Maldonado.personal](/_personal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Maldonado.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Maldonado.personal|Maldonado.personal]] 
 
-### [Maldonado.secret](/_secret/Earth/Continent/America~South/Uruguay/departments~Uruguay/Maldonado.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Maldonado.secret|Maldonado.secret]] 
 

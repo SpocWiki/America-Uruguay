@@ -40,17 +40,17 @@ markerFolder: ./Canelones/
 
 ## Confidential Links & Embeds: 
 
-### [Canelones](/_Standards/Earth/Continent/America~South/Uruguay/departments~Uruguay/Canelones.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Canelones|Canelones]] 
 
-### [Canelones.public](/_public/Earth/Continent/America~South/Uruguay/departments~Uruguay/Canelones.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Canelones.public|Canelones.public]] 
 
-### [Canelones.internal](/_internal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Canelones.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Canelones.internal|Canelones.internal]] 
 
-### [Canelones.protect](/_protect/Earth/Continent/America~South/Uruguay/departments~Uruguay/Canelones.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Canelones.protect|Canelones.protect]] 
 
-### [Canelones.private](/_private/Earth/Continent/America~South/Uruguay/departments~Uruguay/Canelones.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Canelones.private|Canelones.private]] 
 
-### [Canelones.personal](/_personal/Earth/Continent/America~South/Uruguay/departments~Uruguay/Canelones.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Canelones.personal|Canelones.personal]] 
 
-### [Canelones.secret](/_secret/Earth/Continent/America~South/Uruguay/departments~Uruguay/Canelones.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay/Canelones.secret|Canelones.secret]] 
 

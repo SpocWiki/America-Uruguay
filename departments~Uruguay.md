@@ -13,17 +13,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [departments~Uruguay](/_Standards/Earth/Continent/America~South/Uruguay/departments~Uruguay.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay|departments~Uruguay]] 
 
-### [departments~Uruguay.public](/_public/Earth/Continent/America~South/Uruguay/departments~Uruguay.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay.public|departments~Uruguay.public]] 
 
-### [departments~Uruguay.internal](/_internal/Earth/Continent/America~South/Uruguay/departments~Uruguay.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay.internal|departments~Uruguay.internal]] 
 
-### [departments~Uruguay.protect](/_protect/Earth/Continent/America~South/Uruguay/departments~Uruguay.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay.protect|departments~Uruguay.protect]] 
 
-### [departments~Uruguay.private](/_private/Earth/Continent/America~South/Uruguay/departments~Uruguay.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay.private|departments~Uruguay.private]] 
 
-### [departments~Uruguay.personal](/_personal/Earth/Continent/America~South/Uruguay/departments~Uruguay.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay.personal|departments~Uruguay.personal]] 
 
-### [departments~Uruguay.secret](/_secret/Earth/Continent/America~South/Uruguay/departments~Uruguay.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Uruguay/departments~Uruguay.secret|departments~Uruguay.secret]] 
 
