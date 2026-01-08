@@ -33,7 +33,7 @@ expiryDate: ""
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -56.17
 dv_has_place_latitude: -34.91
-dv_name: Montevideo
+dv_has_name_: Montevideo
 dv_Country: "[[../../Uruguay|Uruguay]]"
 dv_is_:
   same_as: "[[../../../../../../WikiData/WD~Montevideo,1335|WD~Montevideo,1335]]"
