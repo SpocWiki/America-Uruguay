@@ -33,7 +33,7 @@ expiryDate: ""
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -56.17
 dv_has_place_latitude: -34.91
-dv_has_name_: Montevideo
+dv_has_name: Montevideo
 dv_Country: "[[../../Uruguay|Uruguay]]"
 dv_is_:
   same_as: "[[../../../../../../WikiData/WD~Montevideo,1335|WD~Montevideo,1335]]"
@@ -46,7 +46,7 @@ dv_is_same_as: "[[../../../../../../WikiData/WD~Montevideo,1335|WD~Montevideo,13
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country = `=this.dv_Country`
 [StateId::] 
