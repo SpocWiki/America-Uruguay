@@ -251,7 +251,7 @@ demonym:
 - uruguaya
 - Uruguayan
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
 - '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
@@ -853,7 +853,7 @@ dv_ISO2: UY
 dv_ISO3: URY
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Uruguay,77|WD~Uruguay,77]]'
+  - '[[../../../../../WikiData/WD~Uruguay,77|WD~Uruguay,77]]'
   - '[[/_Standards/Earth/Continent/America~South/Southern_Cone/Uruguay|Uruguay]]'
   - '[[/_public/Earth/Continent/America~South/Southern_Cone/Uruguay.public|Uruguay.public]]'
   - '[[/_internal/Earth/Continent/America~South/Southern_Cone/Uruguay.internal|Uruguay.internal]]'
@@ -873,7 +873,7 @@ dv_has_place_latitude: -34.91
 dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Uruguay
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Uruguay,77|WD~Uruguay,77]]'
+- '[[../../../../../WikiData/WD~Uruguay,77|WD~Uruguay,77]]'
 - '[[/_Standards/Earth/Continent/America~South/Southern_Cone/Uruguay|Uruguay]]'
 - '[[/_public/Earth/Continent/America~South/Southern_Cone/Uruguay.public|Uruguay.public]]'
 - '[[/_internal/Earth/Continent/America~South/Southern_Cone/Uruguay.internal|Uruguay.internal]]'
@@ -891,7 +891,7 @@ Unicode_character: 🇺🇾
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Uruguay/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
@@ -960,7 +960,7 @@ ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Uruguay,77|WD~Uruguay,77]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Uruguay,77|WD~Uruguay,77]] 
 
 ## #has_/map  
 
@@ -979,7 +979,7 @@ markerFile: [[Uruguay]]
 
 ```leaflet
 id: Uruguay_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1003,12 +1003,12 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
-Capital :: [[Uruguay/Counties/Montevideo/City/Montevideo|Montevideo]]  
-![[Uruguay/Coat_of_arms_of_Uruguay.svg|350]]
+Capital :: [[Counties/Montevideo/City/Montevideo|Montevideo]]  
+![[Coat_of_arms_of_Uruguay.svg|350]]
 
-![[../../../xLarge/National-Anthem/Anthem-Uruguay.mp3|Anthem-Uruguay.mp3]]
+![[../../../../xLarge/National-Anthem/Anthem-Uruguay.mp3|Anthem-Uruguay.mp3]]
 
-![[Uruguay/Flag_of_Uruguay.svg|350]]
+![[Flag_of_Uruguay.svg|350]]
 
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
@@ -1064,39 +1064,39 @@ has_place_latitude = `=this.dv_has_place_latitude`
 
 | City               |    Pop/k | Department  |
 | ------------------ | -------: | ----------- |
-| Montevideo         | 1319.108 | [[Uruguay/departments~Uruguay/Montevideo\|Montevideo]]  |
-| Salto              |  104.028 | [[Uruguay/departments~Uruguay/Salto\|Salto]]       |
-| Ciudad de la Costa |  112.443 | [[Uruguay/departments~Uruguay/Canelones\|Canelones]]   |
-| Paysandú           |   76.429 | [[Uruguay/departments~Uruguay/Paysandú\|Paysandú]]    |
-| Las Piedras        |   71.258 | [[Uruguay/departments~Uruguay/Canelones\|Canelones]]   |
-| Rivera             |   64.426 | [[Uruguay/departments~Uruguay/Rivera\|Rivera]]      |
-| Maldonado          |   58.612 | [[Uruguay/departments~Uruguay/Maldonado\|Maldonado]]   |
-| Tacuarembó         |   54.757 | [[Uruguay/departments~Uruguay/Tacuarembó\|Tacuarembó]]  |
+| Montevideo         | 1319.108 | [[departments~Uruguay/Montevideo/|Montevideo]]  |
+| Salto              |  104.028 | [[departments~Uruguay/Salto/|Salto]]       |
+| Ciudad de la Costa |  112.443 | [[departments~Uruguay/Canelones/|Canelones]]   |
+| Paysandú           |   76.429 | [[departments~Uruguay/Paysandú/|Paysandú]]    |
+| Las Piedras        |   71.258 | [[departments~Uruguay/Canelones/|Canelones]]   |
+| Rivera             |   64.426 | [[departments~Uruguay/Rivera/|Rivera]]      |
+| Maldonado          |   58.612 | [[departments~Uruguay/Maldonado/|Maldonado]]   |
+| Tacuarembó         |   54.757 | [[departments~Uruguay/Tacuarembó/|Tacuarembó]]  |
 | Melo               |   51.830 | Cerro Largo |
 
 ## #has_/parts  
 
 | Department                                                     | Capital           |    Pop/k | Area/kkm² |   HDI | Notable Properties               |
 | -------------------------------------------------------------- | ----------------- | -------: | --------: | ----: | -------------------------------- |
-| [[Uruguay/departments~Uruguay/Artigas\|Artigas]]               | Artigas           |   73.378 |    11.928 | 0.742 | Hot Springs, Amethyst Mines      |
-| [[Uruguay/departments~Uruguay/Canelones\|Canelones]]           | Canelones         |  520.187 |     4.536 | 0.775 | Agroindustry, El Águila          |
-| [[Uruguay/departments~Uruguay/Cerro_Largo\|Cerro Largo]]       | Melo              |   83.536 |    13.648 | 0.740 | Historic Architecture            |
-| [[Uruguay/departments~Uruguay/Colonia\|Colonia]]               | C. del Sacramento |  123.203 |     6.106 | 0.795 | UNESCO World Heritage Site       |
-| [[Uruguay/departments~Uruguay/Durazno\|Durazno]]               | Durazno           |   58.859 |    11.643 | 0.740 | Livestock Production, Festivals  |
-| [[Uruguay/departments~Uruguay/Flores\|Flores]]                 | Trinidad          |   25.050 |     5.144 | 0.758 | Paleontological Sites            |
-| [[Uruguay/departments~Uruguay/Florida_Department\|Florida]]    | Florida           |   69.493 |    10.417 | 0.765 | Historic Sites, Cattle Farming   |
-| [[Uruguay/departments~Uruguay/Lavalleja\|Lavalleja]]           | Minas             |   58.815 |    10.016 | 0.721 | Scenic Landscapes, Mines         |
-| [[Uruguay/departments~Uruguay/Maldonado\|Maldonado]]           | Maldonado         |  190.500 |     4.793 | 0.807 | Punta del Este, Tourism          |
-| [[Uruguay/departments~Uruguay/Montevideo\|Montevideo]]         | Montevideo        | 1319.108 |      .530 | 0.832 | Capital City, Cultural Hub       |
-| [[Uruguay/departments~Uruguay/Paysandú\|Paysandú]]             | Paysandú          |  113.292 |    13.922 | 0.778 | Paper Industry, Tourism          |
-| [[Uruguay/departments~Uruguay/Río_Negro,Uruguay\|Río Negro]]           | Fray Bentos       |   54.765 |     9.282 | 0.747 | UNESCO World Heritage Site       |
-| [[Uruguay/departments~Uruguay/Rivera\|Rivera]]                 | Rivera            |  103.493 |     9.370 | 0.755 | International Border City        |
-| [[Uruguay/departments~Uruguay/Rocha\|Rocha]]                   | Rocha             |   70.374 |    10.551 | 0.749 | Coastal Tourism, Lagoons         |
-| [[Uruguay/departments~Uruguay/Salto\|Salto]]                   | Salto             |  124.878 |    14.163 | 0.781 | Thermal Baths, Agric. Production |
-| [[Uruguay/departments~Uruguay/San_José\|San José]]             | San José de Mayo  |  108.309 |     5.532 | 0.778 | Dairy Industry, Historical Sites |
-| [[Uruguay/departments~Uruguay/Soriano\|Soriano]]               | Mercedes          |   82.594 |     9.008 | 0.777 | Grain Production, Industrial     |
-| [[Uruguay/departments~Uruguay/Tacuarembó\|Tacuarembó]]         | Tacuarembó        |   90.053 |    15.438 | 0.742 | Carnevala, Gaucho Culture        |
-| [[Uruguay/departments~Uruguay/Treinta_y_Tres\|Treinta y Tres]] | Treinta y Tres    |   48.134 |     9.529 | 0.743 | Rural Landscape, Cultural Events |
+| [[departments~Uruguay/Artigas/|Artigas]]               | Artigas           |   73.378 |    11.928 | 0.742 | Hot Springs, Amethyst Mines      |
+| [[departments~Uruguay/Canelones/|Canelones]]           | Canelones         |  520.187 |     4.536 | 0.775 | Agroindustry, El Águila          |
+| [[departments~Uruguay/Cerro_Largo/|Cerro Largo]]       | Melo              |   83.536 |    13.648 | 0.740 | Historic Architecture            |
+| [[departments~Uruguay/Colonia/|Colonia]]               | C. del Sacramento |  123.203 |     6.106 | 0.795 | UNESCO World Heritage Site       |
+| [[departments~Uruguay/Durazno/|Durazno]]               | Durazno           |   58.859 |    11.643 | 0.740 | Livestock Production, Festivals  |
+| [[departments~Uruguay/Flores/|Flores]]                 | Trinidad          |   25.050 |     5.144 | 0.758 | Paleontological Sites            |
+| [[departments~Uruguay/Florida_Department/|Florida]]    | Florida           |   69.493 |    10.417 | 0.765 | Historic Sites, Cattle Farming   |
+| [[departments~Uruguay/Lavalleja/|Lavalleja]]           | Minas             |   58.815 |    10.016 | 0.721 | Scenic Landscapes, Mines         |
+| [[departments~Uruguay/Maldonado/|Maldonado]]           | Maldonado         |  190.500 |     4.793 | 0.807 | Punta del Este, Tourism          |
+| [[departments~Uruguay/Montevideo/|Montevideo]]         | Montevideo        | 1319.108 |      .530 | 0.832 | Capital City, Cultural Hub       |
+| [[departments~Uruguay/Paysandú/|Paysandú]]             | Paysandú          |  113.292 |    13.922 | 0.778 | Paper Industry, Tourism          |
+| [[departments~Uruguay/Río_Negro,Uruguay/|Río Negro]]           | Fray Bentos       |   54.765 |     9.282 | 0.747 | UNESCO World Heritage Site       |
+| [[departments~Uruguay/Rivera/|Rivera]]                 | Rivera            |  103.493 |     9.370 | 0.755 | International Border City        |
+| [[departments~Uruguay/Rocha/|Rocha]]                   | Rocha             |   70.374 |    10.551 | 0.749 | Coastal Tourism, Lagoons         |
+| [[departments~Uruguay/Salto/|Salto]]                   | Salto             |  124.878 |    14.163 | 0.781 | Thermal Baths, Agric. Production |
+| [[departments~Uruguay/San_José/|San José]]             | San José de Mayo  |  108.309 |     5.532 | 0.778 | Dairy Industry, Historical Sites |
+| [[departments~Uruguay/Soriano/|Soriano]]               | Mercedes          |   82.594 |     9.008 | 0.777 | Grain Production, Industrial     |
+| [[departments~Uruguay/Tacuarembó/|Tacuarembó]]         | Tacuarembó        |   90.053 |    15.438 | 0.742 | Carnevala, Gaucho Culture        |
+| [[departments~Uruguay/Treinta_y_Tres/|Treinta y Tres]] | Treinta y Tres    |   48.134 |     9.529 | 0.743 | Rural Landscape, Cultural Events |
 
 
 ## Economy 
