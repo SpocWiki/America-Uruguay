@@ -1,37 +1,804 @@
 ---
 aliases:
-  - Uruguay
-  - أوروغواي
-  - 乌拉圭
-  - Уругвай
-  - the Eastern Republic of Uruguay
-  - la República Oriental del Uruguay
-  - Uruguay (el)
-  - ReadMe
-location:
-  - -34.91
-  - -56.17
-type: Country
-tags:
-  - geo/Country
-SpocWebEntityId: 27048
-isDeleted: false
+- i-Uruguay
+- Irigwe
+- Iurukuei
+- la República Oriental del Uruguay
+- Lourougwé
+- Luruguyän
+- ma Ulukawi
+- Ourougway
+- Ouruguai
+- the Eastern Republic of Uruguay
+- Ulugwai
+- Uraaguwaay
+- Uragua
+- Uraquaria
+- Urugoayi
+- Uruguai
+- Uruguaidh
+- uruguais
+- Uruguaj
+- Uruguaji
+- Uruguay
+- Uruguay (el)
+- Uruguaya
+- Uruguei
+- Uruguwaay
+- Uruguwayi
+- Uruguwe
+- Uruguái
+- Urugué
+- Urugvai
+- Urugvaj
+- Urugvaja
+- Urugvajo
+- Urugvajos
+- Urugvajs
+- Urugvajus
+- Urugvay
+- Urugwai
+- Urugwaj
+- Urugway
+- Urugwaý
+- Urugúáì
+- Urukoi
+- Uruqvay
+- Uruwai
+- Uruwayi
+- Urûguay
+- Vuhlahgveih
+- Wrwgwái
+- yn Ooraguay
+- Yrucwaria
+- Yuruguwai
+- Yurugwae
+- Yurugwai
+- Úrúgvæ
+- Ûrûguay
+- ʻUlukuai
+- Ουρουγουάη
+- Оуроугваи
+- Уругаймудин Орн
+- Уругвај
+- Уругвай
+- Уругуай
+- Ուրուգվայ
+- Ուրուկուէյ
+- אורוגוואי
+- אורוגוויי
+- أوروغواي
+- ؤروڭواي
+- ئوروگوای
+- ئۇرۇگۋاي
+- اروگوئه
+- الأوروغواي
+- الأوروڨواي
+- اوروجواى
+- اوروگوئه
+- اۊرۊگۊئه
+- يوراګوای
+- يوراگوائي
+- یوراگوئے
+- އުރުގުއޭ
+- उरुग्वाय
+- उरुग्वे
+- উরুগুয়ে
+- ਉਰੂਗੁਏ
+- ઉરુગ્વે
+- ଉରୁଗୁଏ
+- உருகுவை
+- ఉరూగ్వే
+- ಉರುಗ್ವೆ
+- ഉറുഗ്വേ
+- උරුගුවේ
+- ประเทศอุรุกวัย
+- ປະເທດອູຣູກວາຍ
+- ཨུ་རུ་གུ་ཡེ།
+- မိူင်းဢုရုၵူၺ်း
+- ဥရုဂွေးနိုင်ငံ
+- ურუგვაი
+- ኡራጓይ
+- ᱩᱨᱩᱜᱩᱭᱮ
+- ⵓⵔⵓⴳⵡⴰⵢ
+- ウルグアイ
+- 乌拉圭
+- 烏拉圭
+- ꠃꠞꠥꠉꠥꠄ
+- ꯎꯔꯨꯒ꯭ꯋꯦ
+- 우루과이
+- "\U0001033F\U00010342\U0001033F\U00010330\U00010337\U00010345\U00010330"
+has_id_wikidata: Q77
+age_of_majority: 18
+aircraft_registration_prefix: CX
+anthem: '[[/_Standards/WikiData/WD~National_Anthem_of_Uruguay,336306|WD~National_Anthem_of_Uruguay,336306]]'
+area: 176215
+award_received: '[[/_Standards/WikiData/WD~The_Economist_country_of_the_year,47004555|WD~The_Economist_country_of_the_year,47004555]]'
+Baidu_Tieba_name: 乌拉圭
+basic_form_of_government:
+- '[[/_Standards/WikiData/WD~participatory_democracy,310988|WD~participatory_democracy,310988]]'
+- '[[/_Standards/WikiData/WD~republic,7270|WD~republic,7270]]'
+- '[[/_Standards/WikiData/WD~presidential_system,49892|WD~presidential_system,49892]]'
+BHCL_UUID: 5a7717a2-ad53-4a2d-8cab-2afa576dd18e
+birth_rate:
+- 10.339
+- 10.419
+- 10.473
+- 10.822
+BTI_Governance_Index:
+- 6.85
+- 6.97
+- 7.33
+- 7.36
+- 7.39
+- 7.49
+- 7.56
+- 7.69
+BTI_Status_Index:
+- 8.9
+- 9.3
+- 8.66
+- 9.12
+- 9.16
+- 9.19
+- 9.25
+- 9.26
+- 9.33
+capital: '[[/_Standards/WikiData/WD~Montevideo,1335|WD~Montevideo,1335]]'
+central_bank: '[[/_Standards/WikiData/WD~Central_Bank_of_Uruguay,4504285|WD~Central_Bank_of_Uruguay,4504285]]'
+CIVICUS_Monitor_country_entry: uruguay
+coat_of_arms: '[[/_Standards/WikiData/WD~Coat_of_arms_of_Uruguay,208656|WD~Coat_of_arms_of_Uruguay,208656]]'
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Uruguay.svg
+Colon_Classification: SG--7911
+Commons_category: Uruguay
+Commons_gallery: Uruguay
+compulsory_education_maximum_age_: 14
+compulsory_education_minimum_age_: 6
 confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
+contains_the_administrative_territorial_entity:
+- '[[/_Standards/WikiData/WD~Maldonado_Department,331196|WD~Maldonado_Department,331196]]'
+- '[[/_Standards/WikiData/WD~Lavalleja_Department,460435|WD~Lavalleja_Department,460435]]'
+- '[[/_Standards/WikiData/WD~Cerro_Largo_Department,16575|WD~Cerro_Largo_Department,16575]]'
+- '[[/_Standards/WikiData/WD~Flores_Department,16578|WD~Flores_Department,16578]]'
+- '[[/_Standards/WikiData/WD~San_José_Department,16579|WD~San_José_Department,16579]]'
+- '[[/_Standards/WikiData/WD~Paysandú_Department,16576|WD~Paysandú_Department,16576]]'
+- '[[/_Standards/WikiData/WD~Canelones_Department,16577|WD~Canelones_Department,16577]]'
+- '[[/_Standards/WikiData/WD~Rocha_Department,16582|WD~Rocha_Department,16582]]'
+- '[[/_Standards/WikiData/WD~Colonia_Department,16580|WD~Colonia_Department,16580]]'
+- '[[/_Standards/WikiData/WD~Tacuarembó_Department,16587|WD~Tacuarembó_Department,16587]]'
+- '[[/_Standards/WikiData/WD~Soriano_Department,16584|WD~Soriano_Department,16584]]'
+- '[[/_Standards/WikiData/WD~Durazno_Department,16591|WD~Durazno_Department,16591]]'
+- '[[/_Standards/WikiData/WD~Montevideo_Department,16594|WD~Montevideo_Department,16594]]'
+- '[[/_Standards/WikiData/WD~Salto_Department,16595|WD~Salto_Department,16595]]'
+- '[[/_Standards/WikiData/WD~Florida_Department,16593|WD~Florida_Department,16593]]'
+- '[[/_Standards/WikiData/WD~Río_Negro_Department,16596|WD~Río_Negro_Department,16596]]'
+- '[[/_Standards/WikiData/WD~Artigas_Department,16603|WD~Artigas_Department,16603]]'
+- '[[/_Standards/WikiData/WD~Treinta_y_Tres_Department,16610|WD~Treinta_y_Tres_Department,16610]]'
+- '[[/_Standards/WikiData/WD~Rivera_Department,16609|WD~Rivera_Department,16609]]'
+continent: '[[/_Standards/WikiData/WD~South_America,18|WD~South_America,18]]'
+coordinates_of_easternmost_point: Point(-53.18464279 -32.65440712)
+coordinates_of_northernmost_point: Point(-56.99383823 -30.086248369)
+coordinates_of_southernmost_point:
+- Point(-54.95181084 -34.97361029)
+- Point(-54.884471761 -35.03138793)
+coordinates_of_westernmost_point: Point(-58.43799591 -33.68206818)
+coordinate_location: Point(-56.0 -33.0)
+country: '[[/_Standards/WikiData/WD~Uruguay,77|WD~Uruguay,77]]'
+country_calling_code: 598
 cssclasses:
-  - Country
-publish: true
-title: Uruguay
-linkTitle: ""
-keywords: ""
-layout: ""
+- Country
+culture: '[[/_Standards/WikiData/WD~culture_of_Uruguay,2842424|WD~culture_of_Uruguay,2842424]]'
+death_rate:
+- 9.432
+- 9.879
+- 10.057
+- 12.162
+Democracy_Index: 8.85
+demographics_of_topic: '[[/_Standards/WikiData/WD~demographics_of_Uruguay,4228|WD~demographics_of_Uruguay,4228]]'
+demonym:
+- Uruguayer
+- Uruguayerin
+- ؤروڭواني
+- ؤروڭوانية
+- ؤروڭوانيات
+- ؤروڭوانيين
+- Urugvajec
+- Urugvajka
+- أوروغواياني
+- أوروغوايانية
+- أوروغوايانيون
+- uruguaya
+- uruguayu
+- উরুগুয়েয়ীয়
+- uruguaià
+- uruguaiana
+- uruguaianes
+- Ουρουγουανός
+- Urugvajano
+- uruguayo
+- Uruguayen
+- Uruguayenne
+- אורוגוואית
+- uruguayi
+- Uruguayano
+- uruguaiana
+- uruguaiane
+- uruguaiani
+- uruguaiano
+- uruguaia
+- uruguayan
+- uruguayană
+- uruguayeni
+- uruguayan
+- уругваєць
+- уругвайка
+- уругвайці
+- uruguaja
+- uruguajan
+- uruguajana
+- uruguajane
+- uruguajani
+- uruguaje
+- uruguaji
+- uruguajo
+- Luruguyänan
+- Uraguach
+- אורוגוואי
+- uruguaians
+- uruguayas
+- uruguayos
+- ウルグアイ人
+- uruguaya
+- Uruguayan
+described_by_source:
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Uruguay%20CIA%20map-DE.png
+Dewey_Decimal_Classification: 2--895
+different_from: '[[/_Standards/WikiData/WD~Uruguay,354063|WD~Uruguay,354063]]'
+diplomatic_relation:
+- '[[/_Standards/WikiData/WD~Holy_See,159583|WD~Holy_See,159583]]'
+- '[[/_Standards/WikiData/WD~Riograndense_Republic,162192|WD~Riograndense_Republic,162192]]'
+- '[[/_Standards/WikiData/WD~Chile,298|WD~Chile,298]]'
+- '[[/_Standards/WikiData/WD~Armenia,399|WD~Armenia,399]]'
+- '[[/_Standards/WikiData/WD~Serbia,403|WD~Serbia,403]]'
+- '[[/_Standards/WikiData/WD~Australia,408|WD~Australia,408]]'
+- '[[/_Standards/WikiData/WD~Argentina,414|WD~Argentina,414]]'
+- '[[/_Standards/WikiData/WD~Peru,419|WD~Peru,419]]'
+- '[[/_Standards/WikiData/WD~India,668|WD~India,668]]'
+- '[[/_Standards/WikiData/WD~Venezuela,717|WD~Venezuela,717]]'
+- '[[/_Standards/WikiData/WD~Paraguay,733|WD~Paraguay,733]]'
+- '[[/_Standards/WikiData/WD~Colombia,739|WD~Colombia,739]]'
+- '[[/_Standards/WikiData/WD~Ecuador,736|WD~Ecuador,736]]'
+- '[[/_Standards/WikiData/WD~Bolivia,750|WD~Bolivia,750]]'
+- '[[/_Standards/WikiData/WD~Guatemala,774|WD~Guatemala,774]]'
+- '[[/_Standards/WikiData/WD~Dominican_Republic,786|WD~Dominican_Republic,786]]'
+- '[[/_Standards/WikiData/WD~Iran,794|WD~Iran,794]]'
+- '[[/_Standards/WikiData/WD~El_Salvador,792|WD~El_Salvador,792]]'
+- '[[/_Standards/WikiData/WD~Costa_Rica,800|WD~Costa_Rica,800]]'
+- '[[/_Standards/WikiData/WD~Israel,801|WD~Israel,801]]'
+- '[[/_Standards/WikiData/WD~Panama,804|WD~Panama,804]]'
+- '[[/_Standards/WikiData/WD~Lebanon,822|WD~Lebanon,822]]'
+- '[[/_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[/_Standards/WikiData/WD~South_Korea,884|WD~South_Korea,884]]'
+- '[[/_Standards/WikiData/WD~Canada,16|WD~Canada,16]]'
+- '[[/_Standards/WikiData/WD~Japan,17|WD~Japan,17]]'
+- '[[/_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[/_Standards/WikiData/WD~Belgium,31|WD~Belgium,31]]'
+- '[[/_Standards/WikiData/WD~Hungary,28|WD~Hungary,28]]'
+- '[[/_Standards/WikiData/WD~Spain,29|WD~Spain,29]]'
+- '[[/_Standards/WikiData/WD~Sweden,34|WD~Sweden,34]]'
+- '[[/_Standards/WikiData/WD~Italy,38|WD~Italy,38]]'
+- '[[/_Standards/WikiData/WD~Switzerland,39|WD~Switzerland,39]]'
+- '[[/_Standards/WikiData/WD~Poland,36|WD~Poland,36]]'
+- '[[/_Standards/WikiData/WD~Austria,40|WD~Austria,40]]'
+- '[[/_Standards/WikiData/WD~Portugal,45|WD~Portugal,45]]'
+- '[[/_Standards/WikiData/WD~Netherlands,55|WD~Netherlands,55]]'
+- '[[/_Standards/WikiData/WD~Egypt,79|WD~Egypt,79]]'
+- '[[/_Standards/WikiData/WD~Mexico,96|WD~Mexico,96]]'
+- '[[/_Standards/WikiData/WD~France,142|WD~France,142]]'
+- '[[/_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
+- "[[/_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[/_Standards/WikiData/WD~Brazil,155|WD~Brazil,155]]'
+- '[[/_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[/_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+- '[[/_Standards/WikiData/WD~Czech_Republic,213|WD~Czech_Republic,213]]'
+- '[[/_Standards/WikiData/WD~Cuba,241|WD~Cuba,241]]'
 draft: false
-publishDate: ""
-expiryDate: ""
+driving_side: '[[/_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
+economy_of_topic: '[[/_Standards/WikiData/WD~economy_of_Uruguay,1997531|WD~economy_of_Uruguay,1997531]]'
+electrical_plug_type:
+- '[[/_Standards/WikiData/WD~Schuko,1123613|WD~Schuko,1123613]]'
+- '[[/_Standards/WikiData/WD~Europlug,1378312|WD~Europlug,1378312]]'
+- '[[/_Standards/WikiData/WD~Type_L,1520890|WD~Type_L,1520890]]'
+- '[[/_Standards/WikiData/WD~AS_NZS_3112,2335539|WD~AS_NZS_3112,2335539]]'
+emergency_phone_number: '[[/_Standards/WikiData/WD~911,533806|WD~911,533806]]'
+executive_body: '[[/_Standards/WikiData/WD~Presidencia_de_la_República,104809052|WD~Presidencia_de_la_República,104809052]]'
+expiryDate: ''
+female_population:
+- 1764421
+- 1766768
+- 1768921
+- 1769262
+FIPS_10_4_countries_and_regions_: UY
+flag: '[[/_Standards/WikiData/WD~flag_of_Uruguay,171103|WD~flag_of_Uruguay,171103]]'
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uruguay.svg
+geography_of_topic: '[[/_Standards/WikiData/WD~geography_of_Uruguay,2334391|WD~geography_of_Uruguay,2334391]]'
+geoshape: http://commons.wikimedia.org/data/main/Data:Uruguay.map
+Gini_coefficient: 40.2
+GitHub_topic: uruguay
+GS1_country_code: 773
+Happy_Planet_Index_score: 57.5
+hashtag: Uruguay
+has_characteristic: '[[/_Standards/WikiData/WD~free_country,3174312|WD~free_country,3174312]]'
+has_time_started: 1825-08-25
+head_of_government: '[[/_Standards/WikiData/WD~Luis_Lacalle_Pou,6800406|WD~Luis_Lacalle_Pou,6800406]]'
+head_of_state: '[[/_Standards/WikiData/WD~Luis_Lacalle_Pou,6800406|WD~Luis_Lacalle_Pou,6800406]]'
+highest_judicial_authority: '[[/_Standards/WikiData/WD~Supreme_Court_of_Uruguay,6512554|WD~Supreme_Court_of_Uruguay,6512554]]'
+highest_point: '[[/_Standards/WikiData/WD~Cerro_Catedral,1055837|WD~Cerro_Catedral,1055837]]'
+history_of_topic: '[[/_Standards/WikiData/WD~history_of_Uruguay,1132690|WD~history_of_Uruguay,1132690]]'
+Human_Development_Index: 0.809
+IAB_code: 1469
+icon: flag-uy
+inception: 1825-08-25
+Inequality_adjusted_Human_Development_Index: 0.71
+INSEE_countries_and_foreign_territories_code: 99423
+instance_of:
+- '[[/_Standards/WikiData/WD~secular_state,859563|WD~secular_state,859563]]'
+- '[[/_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
+- '[[/_Standards/WikiData/WD~country,6256|WD~country,6256]]'
+- '[[/_Standards/WikiData/WD~republic,7270|WD~republic,7270]]'
+IOC_country_code: URU
+isDeleted: false
+ISNI: 122384648
+ISO_3166_1_alpha_2_code: UY
+ISO_3166_1_alpha_3_code: URY
+ISO_3166_1_numeric_code: 858
+isReadOnly: false
+ITU_letter_code: URG
+keywords: ''
+Krugosvet_article: strany_mira/URUGVA.html
 Languages:
-  - es-UY
+- es-UY
+language_used:
+- '[[/_Standards/WikiData/WD~Uruguayan_Sign_Language,7901470|WD~Uruguayan_Sign_Language,7901470]]'
+- '[[/_Standards/WikiData/WD~Spanish,1321|WD~Spanish,1321]]'
+layout: ''
+legislative_body: '[[/_Standards/WikiData/WD~General_Assembly_of_Uruguay,1501988|WD~General_Assembly_of_Uruguay,1501988]]'
+licence_plate_code: UY
+license: CC BY-SA 4.0
+life_expectancy: 77.493
+linkTitle: ''
+located_in_or_next_to_body_of_water:
+- '[[/_Standards/WikiData/WD~Uruguay_River,18278|WD~Uruguay_River,18278]]'
+- '[[/_Standards/WikiData/WD~Atlantic_Ocean,97|WD~Atlantic_Ocean,97]]'
+- '[[/_Standards/WikiData/WD~Río_de_la_Plata,35827|WD~Río_de_la_Plata,35827]]'
+located_in_time_zone:
+- '[[/_Standards/WikiData/WD~America_Montevideo,63286104|WD~America_Montevideo,63286104]]'
+- '[[/_Standards/WikiData/WD~UTC_03_00,6513|WD~UTC_03_00,6513]]'
+location:
+- -34.91
+- -56.17
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/URY%20orthographic.svg
+lowest_point: '[[/_Standards/WikiData/WD~Atlantic_Ocean,97|WD~Atlantic_Ocean,97]]'
+M49_code: 858
+mains_voltage: 220
+maintained_by_WikiProject: '[[/_Standards/WikiData/WD~WikiProject_Uruguay,15505683|WD~WikiProject_Uruguay,15505683]]'
+male_population:
+- 1658372
+- 1659147
+- 1659492
+- 1660166
+maritime_identification_digits: 770
+marriageable_age: 16
+member_of:
+- '[[/_Standards/WikiData/WD~Organization_of_American_States,123759|WD~Organization_of_American_States,123759]]'
+- '[[/_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
+- '[[/_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[/_Standards/WikiData/WD~International_Hydrographic_Organization,233611|WD~International_Hydrographic_Organization,233611]]'
+- '[[/_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]'
+- '[[/_Standards/WikiData/WD~Andean_Community,471690|WD~Andean_Community,471690]]'
+- '[[/_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]'
+- '[[/_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]'
+- '[[/_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[/_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770|WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[/_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[/_Standards/WikiData/WD~Digital_9,1224678|WD~Digital_9,1224678]]'
+- '[[/_Standards/WikiData/WD~Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,3369762|WD~Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,3369762]]'
+- '[[/_Standards/WikiData/WD~Group_on_Earth_Observations,5611262|WD~Group_on_Earth_Observations,5611262]]'
+- '[[/_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
+- '[[/_Standards/WikiData/WD~Union_of_South_American_Nations,4230|WD~Union_of_South_American_Nations,4230]]'
+- '[[/_Standards/WikiData/WD~Mercosur,4264|WD~Mercosur,4264]]'
+- '[[/_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
+- '[[/_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]'
+- '[[/_Standards/WikiData/WD~World_Trade_Organization,7825|WD~World_Trade_Organization,7825]]'
+- '[[/_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]'
+- '[[/_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]'
+- '[[/_Standards/WikiData/WD~International_Labour_Organization,54129|WD~International_Labour_Organization,54129]]'
+MeSH_tree_code: Z01.107.757.904
+mobile_country_code: 748
+motto: '[[/_Standards/WikiData/WD~Liberty_or_Death,3506379|WD~Liberty_or_Death,3506379]]'
+named_after: '[[/_Standards/WikiData/WD~Uruguay_River,18278|WD~Uruguay_River,18278]]'
+native_label: República Oriental del Uruguay
+nickname:
+- El Paisito
+- La Suiza de América
+nominal_GDP:
+- 71177146197
+- 61412268249
+number_of_out_of_school_children: 51499
+office_held_by_head_of_state: '[[/_Standards/WikiData/WD~President_of_Uruguay,4524807|WD~President_of_Uruguay,4524807]]'
+official_language: '[[/_Standards/WikiData/WD~Spanish,1321|WD~Spanish,1321]]'
+official_name:
+- Oriental Republic of Uruguay
+- Repúbilca Oriental del Uruguay
+- la République orientale de l’Uruguay
+official_website: https://www.gub.uy/
+OmegaWiki_Defined_Meaning: 8345
+open_data_portal: '[[/_Standards/WikiData/WD~Uruguay_Open_Data_Portal,97096884|WD~Uruguay_Open_Data_Portal,97096884]]'
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Punta%20del%20Este%20%28Uruguay%29%20Puente%20Barra%20Maldonado.jpg
+part_of:
+- '[[/_Standards/WikiData/WD~Southern_Cone,236118|WD~Southern_Cone,236118]]'
+- '[[/_Standards/WikiData/WD~Hispanic_America,653884|WD~Hispanic_America,653884]]'
+- '[[/_Standards/WikiData/WD~European_Union_tax_haven_blacklist,66458647|WD~European_Union_tax_haven_blacklist,66458647]]'
+- '[[/_Standards/WikiData/WD~Latin_America,12585|WD~Latin_America,12585]]'
+- '[[/_Standards/WikiData/WD~South_America,18|WD~South_America,18]]'
+permanent_duplicated_item: '[[/_Standards/WikiData/WD~Q27103717,27103717|WD~Q27103717,27103717]]'
+PM20_geo_code: E95
+population: 3444263
+pronunciation_audio:
+- http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Uruguay.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Uruguay.wav
+public_holiday:
+- '[[/_Standards/WikiData/WD~Epiphany,132001|WD~Epiphany,132001]]'
+- "[[/_Standards/WikiData/WD~New_Year's_Day,196627|WD~New_Year's_Day,196627]]"
+- "[[/_Standards/WikiData/WD~All_Souls'_Day,1033140|WD~All_Souls'_Day,1033140]]"
+- '[[/_Standards/WikiData/WD~Tourism_Week,6124629|WD~Tourism_Week,6124629]]'
+- '[[/_Standards/WikiData/WD~Carnival,4618|WD~Carnival,4618]]'
+- '[[/_Standards/WikiData/WD~Christmas,19809|WD~Christmas,19809]]'
+- "[[/_Standards/WikiData/WD~International_Workers'_Day,47499|WD~International_Workers'_Day,47499]]"
+publish: true
+publishDate: ''
+railway_traffic_side:
+- '[[/_Standards/WikiData/WD~left,13196750|WD~left,13196750]]'
+- '[[/_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
+replaces:
+- '[[/_Standards/WikiData/WD~Cisplatina_Province,616523|WD~Cisplatina_Province,616523]]'
+- '[[/_Standards/WikiData/WD~Provincia_Oriental,2357000|WD~Provincia_Oriental,2357000]]'
+rural_population:
+- 147591
+- 150653
+- 153795
+- 156815
+shares_border_with:
+- '[[/_Standards/WikiData/WD~Argentina,414|WD~Argentina,414]]'
+- '[[/_Standards/WikiData/WD~Brazil,155|WD~Brazil,155]]'
+short_name:
+- "\U0001F1FA\U0001F1FE"
+- Uruguay
+source: https://datahub.io/core/country-codes
+SpocWebEntityId: 27048
+subreddit: uruguay
+suicide_rate: 18.8
+tags:
+- geo/Country
+title: Uruguay
+topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Uruguay,8253631|WD~Portal_Uruguay,8253631]]'
+top_level_Internet_domain: '[[/_Standards/WikiData/WD~.uy,41848|WD~.uy,41848]]'
+total_fertility_rate: 2.02
+type: Country
+UMLS_CUI: C0042113
+unemployment_rate: 7
+urban_population:
+- 3271594
+- 3275203
+- 3275291
+- 3275607
+U_S_National_Archives_Identifier: 10035745
+VAT_rate:
+- 10
+- 22
+Wikimedia_outline: '[[/_Standards/WikiData/WD~outline_of_Uruguay,7112501|WD~outline_of_Uruguay,7112501]]'
+WIPO_ST_3: UY
+Wolfram_Language_entity_code: Entity["Country", "Uruguay"]
+dv_has_:
+  name_:
+    ace: Uruguay
+    aeb_arab: الأوروڨواي
+    af: Uruguay
+    am: ኡራጓይ
+    ami: Uruguay
+    an: Uruguai
+    ang: Yrucwaria
+    ann: Yurugwai
+    anp: उरुग्वे
+    ar: الأوروغواي
+    ary: ؤروڭواي
+    arz: اوروجواى
+    ast: Uruguái
+    avk: Uruguaya
+    awa: उरुग्वे
+    ay: Uruwayi
+    az: Uruqvay
+    azb: اوروگوئه
+    ba: Уругвай
+    ban: Uruguay
+    bar: Uruguay
+    bcl: Uruguay
+    be: Уругвай
+    be_tarask: Уругвай
+    bew: Urugué
+    bg: Уругвай
+    bho: उरुग्वे
+    bi: Yurugwae
+    bn: উরুগুয়ে
+    bo: ཨུ་རུ་གུ་ཡེ།
+    bpy: উরুগুয়ে
+    br: Uruguay
+    bs: Urugvaj
+    bxr: Уругвай
+    ca: Uruguai
+    cbk_zam: Uruguay
+    cdo: Uruguay
+    ce: Уругвай
+    ceb: Uruguay
+    chy: Uruguay
+    ckb: ئوروگوای
+    co: Uruguay
+    crh: Urugvay
+    crh_latn: Urugvay
+    cs: Uruguay
+    cu: Оуроугваи
+    cv: Уругвай
+    cy: Wrwgwái
+    da: Uruguay
+    dag: Uruguay
+    de: Uruguay
+    de-at: Uruguay
+    de_ch: Uruguay
+    diq: Uruguay
+    dsb: Uruguay
+    dty: उरुग्वे
+    dv: އުރުގުއޭ
+    ee: Uruguay
+    el: Ουρουγουάη
+    en: Uruguay
+    en_ca: Uruguay
+    en_gb: Uruguay
+    en-us: Uruguay
+    eo: Urugvajo
+    es: Uruguay
+    et: Uruguay
+    eu: Uruguai
+    ext: Uruguai
+    fa: اروگوئه
+    ff: Uruguwaay
+    fi: Uruguay
+    fj: Uruguay
+    fo: Uruguei
+    fr: Uruguay
+    frp: Urugoayi
+    frr: Uruguay
+    fur: Uruguay
+    fy: Urûguay
+    ga: Uragua
+    gag: Urugvay
+    gcr: Lourougwé
+    gd: Uruguaidh
+    gl: Uruguai
+    glk: اۊرۊگۊئه
+    gn: Uruguái
+    gom: उरुग्वे
+    gom-deva: उरुग्वे
+    gom_latn: Uruguay
+    got: "\U0001033F\U00010342\U0001033F\U00010330\U00010337\U00010345\U00010330"
+    gpe: Uruguay
+    gsw: Uruguay
+    gu: ઉરુગ્વે
+    guc: Uruwai
+    gv: yn Ooraguay
+    ha: Uruguay
+    hak: Uruguay
+    haw: ʻUlukuai
+    he: אורוגוואי
+    hi: उरुग्वे
+    hif: Uruguay
+    hr: Urugvaj
+    hsb: Uruguay
+    ht: Irigwe
+    hu: Uruguay
+    hy: Ուրուգվայ
+    hyw: Ուրուկուէյ
+    ia: Uruguay
+    id: Uruguay
+    ie: Uruguay
+    ig: Uruguay
+    ilo: Uruguay
+    io: Uruguay
+    is: Úrúgvæ
+    it: Uruguay
+    ja: ウルグアイ
+    jam: Yurugwai
+    jbo: uruguais
+    jv: Uruguay
+    ka: ურუგვაი
+    kaa: Urugvay
+    kab: Urugway
+    kbp: Uruguwe
+    kcg: Urugwai
+    kea: Uruguai
+    kg: Urugway
+    kk: Уругвай
+    kl: Uruguay
+    kn: ಉರುಗ್ವೆ
+    knc: Uruguay
+    ko: 우루과이
+    krc: Уругвай
+    krj: Urugway
+    ku: Ûrûguay
+    kv: Уругвай
+    kw: Urugway
+    ky: Уругвай
+    la: Uraquaria
+    lad: Uruguay
+    lb: Uruguay
+    lez: Уругвай
+    lfn: Uruguai
+    lg: Uruguay
+    li: Uruguay
+    lij: Uruguay
+    lld: Uruguay
+    lmo: Uruguay
+    ln: Ulugwai
+    lo: ປະເທດອູຣູກວາຍ
+    lrc: اوروگوئه
+    lt: Urugvajus
+    ltg: Urugvajs
+    lv: Urugvaja
+    lzh: 烏拉圭
+    mad: Uruguay
+    mai: उरुग्वे
+    map_bms: Uruguay
+    mdf: Уругвай
+    mg: Uruguay
+    mhr: Уругвай
+    mi: Urukoi
+    min: Uruguay
+    mk: Уругвај
+    ml: ഉറുഗ്വേ
+    mn: Уругвай
+    mni: ꯎꯔꯨꯒ꯭ꯋꯦ
+    mr: उरुग्वे
+    mrj: Уругвай
+    ms: Uruguay
+    mt: Urugwaj
+    mwl: Ouruguai
+    my: ဥရုဂွေးနိုင်ငံ
+    mzn: اروگوئه
+    nah: Uruguay
+    nan: Uruguay
+    nap: Uruguay
+    nb: Uruguay
+    nds: Uruguay
+    nds_nl: Uruguay
+    ne: उरुग्वे
+    new: उरुग्वे
+    nl: Uruguay
+    nn: Uruguay
+    nov: Uruguay
+    oc: Uruguai
+    olo: Urugvai
+    om: Uraaguwaay
+    or: ଉରୁଗୁଏ
+    os: Уругвай
+    pa: ਉਰੂਗੁਏ
+    pag: Uruguay
+    pam: Uruguay
+    pap: Uruguay
+    pcd: Uruguay
+    pdc: Uruguay
+    pi: उरुग्वाय
+    pih: Uruguay
+    pl: Urugwaj
+    pms: Uruguay
+    pnb: یوراگوئے
+    ps: يوراګوای
+    pt: Uruguai
+    pt_br: Uruguai
+    qu: Uruwayi
+    rm: Uruguay
+    rmy: Uruguay
+    rn: Uruguay
+    ro: Uruguay
+    ru: Уругвай
+    rue: Уругвай
+    rw: Irigwe
+    sa: उरुग्वाय
+    sah: Уругуай
+    sat: ᱩᱨᱩᱜᱩᱭᱮ
+    sc: Uruguay
+    scn: Uruguay
+    sco: Uruguay
+    sd: يوراگوائي
+    se: Uruguay
+    sgs: Urugvajos
+    sh: Urugvaj
+    shn: မိူင်းဢုရုၵူၺ်း
+    si: උරුගුවේ
+    sk: Uruguaj
+    sl: Urugvaj
+    sm: Iurukuei
+    smn: Uruguay
+    sms: Uruguay
+    sn: Uruguay
+    so: Uruguay
+    sq: Uruguaji
+    sr: Уругвај
+    sr_ec: Уругвај
+    sr_el: Urugvaj
+    stq: Uruguay
+    su: Uruguay
+    sv: Uruguay
+    sw: Uruguay
+    syl: ꠃꠞꠥꠉꠥꠄ
+    szl: Urugwaj
+    szy: Uruguay
+    ta: உருகுவை
+    tay: Uruguay
+    te: ఉరూగ్వే
+    tet: Uruguai
+    tg: Уругуай
+    th: ประเทศอุรุกวัย
+    ti: ኡራጓይ
+    tk: Urugwaý
+    tl: Uruguay
+    tly: Urugvaj
+    to: ʻUlukuai
+    tok: ma Ulukawi
+    tpi: Yuruguwai
+    tr: Uruguay
+    trv: Uruguay
+    ts: Uruguay
+    tt: Уругвай
+    tum: Uruguay
+    udm: Уругвай
+    ug: ئۇرۇگۋاي
+    uk: Уругвай
+    ur: یوراگوئے
+    uz: Urugvay
+    vec: Uruguai
+    vep: Urugvai
+    vi: Uruguay
+    vls: Uruguay
+    vo: Luruguyän
+    vro: Uruguay
+    wa: Ourougway
+    war: Uruguay
+    wo: Uruguwaay
+    wuu: 乌拉圭
+    xal: Уругаймудин Орн
+    xh: Uruguwayi
+    xmf: ურუგვაი
+    yi: אורוגוויי
+    yo: Urugúáì
+    yue: 烏拉圭
+    za: Vuhlahgveih
+    zea: Uruguay
+    zgh: ⵓⵔⵓⴳⵡⴰⵢ
+    zh: 烏拉圭
+    zh_cn: 乌拉圭
+    zh_hans: 乌拉圭
+    zh_hant: 烏拉圭
+    zh_hk: 烏拉圭
+    zh_mo: 乌拉圭
+    zh-my: 乌拉圭
+    zh_sg: 乌拉圭
+    zh_tw: 烏拉圭
+    zu: i-Uruguay
+  url_for_:
+    code_repository: https://github.com/SpocWiki/America-Uruguay
 dv_ISO4217-currency_alphabetic: UYU
 dv_ISO4217-currency_name: Peso Uruguayo
 dv_ISO4217-currency_numeric: 858
@@ -60,9 +827,9 @@ dv_UNTERM_Chinese_Formal: 乌拉圭东岸共和国
 dv_UNTERM_French_Formal: la République orientale de l'Uruguay
 dv_UNTERM_Russian: Уругвай
 dv_UNTERM_Russian_Formal: Восточная Республика Уругвай
-dv_Region_Name: "[[Americas]]"
-dv_Intermediate_Region_Name: "[[South America]]"
-dv_Sub-region_Name: "[[Latin America and the Caribbean]]"
+dv_Region_Name: '[[Americas]]'
+dv_Intermediate_Region_Name: '[[South America]]'
+dv_Sub-region_Name: '[[Latin America and the Caribbean]]'
 dv_Region: 19
 dv_Intermediate_Region: 5
 dv_Sub-region: 419
@@ -84,131 +851,285 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 858
 dv_ISO2: UY
 dv_ISO3: URY
+dv_is_:
+  same_as:
+  - '[[../../../../WikiData/WD~Uruguay,77|WD~Uruguay,77]]'
+  - '[[/_Standards/Earth/Continent/America~South/Southern_Cone/Uruguay|Uruguay]]'
+  - '[[/_public/Earth/Continent/America~South/Southern_Cone/Uruguay.public|Uruguay.public]]'
+  - '[[/_internal/Earth/Continent/America~South/Southern_Cone/Uruguay.internal|Uruguay.internal]]'
+  - '[[/_protect/Earth/Continent/America~South/Southern_Cone/Uruguay.protect|Uruguay.protect]]'
+  - '[[/_private/Earth/Continent/America~South/Southern_Cone/Uruguay.private|Uruguay.private]]'
+  - '[[/_personal/Earth/Continent/America~South/Southern_Cone/Uruguay.personal|Uruguay.personal]]'
+  - '[[/_secret/Earth/Continent/America~South/Southern_Cone/Uruguay.secret|Uruguay.secret]]'
 dv_has_name_de: Uruguay
 dv_Area-Total: 176215
 dv_Area-Land: 174810
-dv_Continent: "[[South-America]]"
+dv_has_place_continent: '[[South-America]]'
 dv_VehicleCode: ROU
-dv_Capital: "[[Uruguay/Counties/Montevideo/City/Montevideo]]"
 dv_Alcohol-l: 8.1
 dv_Language-Id: 492
-dv_is_a_: "[[../../../../Geography/Place]]"
 dv_has_place_longitude: -56.17
 dv_has_place_latitude: -34.91
+dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Uruguay
 dv_developed_developing_countries: Developing
+dv_is_same_as:
+- '[[../../../../WikiData/WD~Uruguay,77|WD~Uruguay,77]]'
+- '[[/_Standards/Earth/Continent/America~South/Southern_Cone/Uruguay|Uruguay]]'
+- '[[/_public/Earth/Continent/America~South/Southern_Cone/Uruguay.public|Uruguay.public]]'
+- '[[/_internal/Earth/Continent/America~South/Southern_Cone/Uruguay.internal|Uruguay.internal]]'
+- '[[/_protect/Earth/Continent/America~South/Southern_Cone/Uruguay.protect|Uruguay.protect]]'
+- '[[/_private/Earth/Continent/America~South/Southern_Cone/Uruguay.private|Uruguay.private]]'
+- '[[/_personal/Earth/Continent/America~South/Southern_Cone/Uruguay.personal|Uruguay.personal]]'
+- '[[/_secret/Earth/Continent/America~South/Southern_Cone/Uruguay.secret|Uruguay.secret]]'
+Unicode_character: 🇺🇾
 ---
 
+# [[Uruguay]] 🇺🇾 
 
-ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
-ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
-ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric` 
-ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit` 
-ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name` 
+## #has_/properties 
 
-Telephone = `=this.dv_Telephone` 
+For more Details, check out this Repository into this Subfolder: 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-Global = `=this.dv_Global` 
-Global_Name = `=this.dv_Global_Name` 
+[[Uruguay/ReadMe|ReadMe]] 
 
-name = `=this.dv_has_name` 
-[	has_name_en	 :: Uruguay ] 
-has_name_es = `=this.dv_has_name_es` 
-has_name_fr = `=this.dv_has_name_fr` 
-has_name_cn = `=this.dv_has_name_cn` 
-has_name_ar = `=this.dv_has_name_ar` 
-has_name_ru = `=this.dv_has_name_ru` 
 
-CLDR_display_name = `=this.dv_CLDR_display_name` 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-UNTERM_English = `=this.dv_UNTERM_English` 
-UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal` 
-UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal` 
-UNTERM_Spanish = `=this.dv_UNTERM_Spanish` 
-UNTERM_French = `=this.dv_UNTERM_French` ] 
-UNTERM_Arabic = `=this.dv_UNTERM_Arabic` 
-UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal` 
-UNTERM_Chinese = `=this.dv_UNTERM_Chinese` 
-UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal` 
-UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal` 
-UNTERM_Russian = `=this.dv_UNTERM_Russian` 
-UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal` 
+Telephone = `=this.dv_Telephone`
+
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
+
+name = `=this.dv_has_name`
+[	has_name_en	 :: Uruguay ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
+
+CLDR_display_name = `=this.dv_CLDR_display_name`
+
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French` ]
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
 Region_Name = `=this.dv_Region_Name`
 Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
 Sub-region_Name = `=this.dv_Sub-region_Name`
 
-Region = `=this.dv_Region` 
-Intermediate_Region = `=this.dv_Intermediate_Region` 
-Sub-region = `=this.dv_Sub-region` 
+Region = `=this.dv_Region`
+Intermediate_Region = `=this.dv_Intermediate_Region`
+Sub-region = `=this.dv_Sub-region`
 
-Geoname-ID = `=this.dv_Geoname-ID` 
-FIPS = `=this.dv_FIPS` 
-FIFA = `=this.dv_FIFA` 
-IOC = `=this.dv_IOC` 
-MARC = `=this.dv_MARC` 
-GAUL = `=this.dv_GAUL` 
-WMO = `=this.dv_WMO` 
-ITU = `=this.dv_ITU` 
-DS = `=this.dv_DS` 
-TLD = `=this.dv_TLD` 
-EDGAR = `=this.dv_EDGAR` 
-M49 = `=this.dv_M49` 
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-is_independent = `=this.dv_is_independent` 
-developed_developing_countries = `=this.dv_developed_developing_countries` 
-[	Land_Locked_Developing_Countries	 ::  ] 
-[	Least_Developed_Countries	 ::  ] 
-[	Small_is_a_ = `=this.dv_is_a_`
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
+[	Land_Locked_Developing_Countries	 ::  ]
+[	Least_Developed_Countries	 ::  ]
+[	Small_Island_Developing_States	 ::  ]
 
-ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-
-
-ISO2 = `=this.dv_ISO2` 
+ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3` 
+
+#is_/same_as :: [[../../../../WikiData/WD~Uruguay,77|WD~Uruguay,77]] 
+
+## #has_/map  
+
 ```leaflet
 id: Uruguay
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: .//
-markerFolder: ./
+geojsonFolder: ./Uruguay//
+markerFolder: ./Uruguay/
+coordinates: [[Uruguay]] 
+markerFile: [[Uruguay]] 
 ```
 
-[has_name_en::Uruguay] 
-has_name_de = `=this.dv_has_name_de` 
-Area-Total = `=this.dv_Area-Total` 
-Area-Land = `=this.dv_Area-Land` 
-Continent = `=this.dv_Continent`
-VehicleCode = `=this.dv_VehicleCode` 
-Capital = `=this.dv_Capital`
-![[Coat_of_arms_of_Uruguay.svg|350]] 
+### #has_/map_/topologic 
 
-![[../../../xLarge/National-Anthem/Anthem-Uruguay.mp3]] 
+```leaflet
+id: Uruguay_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 4
+geojsonFolder: ./Uruguay//
+markerFolder: ./Uruguay/
+coordinates: [[Uruguay]] 
+markerFile: [[Uruguay]] 
+unit: px
+scale: 1
+darkMode: false
+```
 
-![[Flag_of_Uruguay.svg|350]] 
 
-Alcohol-l = `=this.dv_Alcohol-l` 
-Language-Id = `=this.dv_Language-Id` 
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
-has_place_longitude = `=this.dv_has_place_longitude` 
-has_place_latitude = `=this.dv_has_place_latitude` 
+[has_name_en::Uruguay]
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital :: [[Uruguay/Counties/Montevideo/City/Montevideo|Montevideo]]  
+![[Uruguay/Coat_of_arms_of_Uruguay.svg|350]]
+
+![[../../../xLarge/National-Anthem/Anthem-Uruguay.mp3|Anthem-Uruguay.mp3]]
+
+![[Uruguay/Flag_of_Uruguay.svg|350]]
+
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
+
+
+## #has_/text_of_/abstract 
+
+> **Uruguay** (YOOR-ə-gwy, Spanish: [uɾuˈɣwaj] ), officially the Oriental Republic of Uruguay 
+> (Spanish: República Oriental del Uruguay), is a country in South America. 
+> It shares borders with Argentina to its west and southwest and Brazil to its north and northeast, 
+> while bordering the Río de la Plata to the south and the Atlantic Ocean to the southeast. 
+>
+> It is part of the Southern Cone region of South America. 
+> Uruguay covers an area of approximately 176,215 square kilometres (68,037 sq mi). 
+> It has a population of around 3.4 million people, 
+> of whom nearly 2 million live in the metropolitan area of its capital and largest city, Montevideo.
+>
+> The area of Uruguay was first inhabited by groups of hunter-gatherers 13,000 years ago. 
+> The predominant tribe at the moment of the arrival of Europeans was the Charrúa people. 
+> At the same time, there were also other tribes, such as the Guaraní and the Chaná, 
+> when the Portuguese first established Colonia do Sacramento in 1680; 
+> Uruguay was colonized by Europeans later than its neighboring countries.
+>
+> The Spanish founded Montevideo as a military stronghold in the early 18th century 
+> due to competing claims over the region, 
+> while Uruguay won its independence between 1811 and 1828, 
+> following a four-way struggle between Portugal and Spain, and later Argentina and Brazil. 
+>
+> It remained subject to foreign  intervention throughout the first half of the 19th century. 
+> From the late 19th century to the early 20th century, numerous pioneering economic, labor, and social reforms were implemented, which led to the creation of a highly developed welfare state, which is why the country began to be known as "__Switzerland of the Americas__". 
+> 
+> However, a series of economic crises and the fight against far-left urban guerrilla warfare 
+> in the late 1960s and early 1970s culminated in the 1973 coup d'état, 
+> which established a civic-military dictatorship until 1985. 
+> Uruguay is today a democratic constitutional republic, 
+> with a president who serves as both head of state and head of government.
+>
+> In 2023, Uruguay was categorized as a "full democracy" in the The Economist Democracy Index, 
+> and is __highly ranked in international measurements of government transparency__, 
+> __economic freedom, social progress, income equality, per capita income, innovation__, and __infrastructure__. 
+> 
+> The country has __fully legalized cannabis (the first country in the world to do so)__, 
+> as well as __same-sex marriage and abortion__. 
+> It is a founding member of the United Nations, OAS, and Mercosur.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Uruguay) 
+
+
+## #has_/place_/city   
+
+
+| City               |    Pop/k | Department  |
+| ------------------ | -------: | ----------- |
+| Montevideo         | 1319.108 | [[Uruguay/departments~Uruguay/Montevideo\|Montevideo]]  |
+| Salto              |  104.028 | [[Uruguay/departments~Uruguay/Salto\|Salto]]       |
+| Ciudad de la Costa |  112.443 | [[Uruguay/departments~Uruguay/Canelones\|Canelones]]   |
+| Paysandú           |   76.429 | [[Uruguay/departments~Uruguay/Paysandú\|Paysandú]]    |
+| Las Piedras        |   71.258 | [[Uruguay/departments~Uruguay/Canelones\|Canelones]]   |
+| Rivera             |   64.426 | [[Uruguay/departments~Uruguay/Rivera\|Rivera]]      |
+| Maldonado          |   58.612 | [[Uruguay/departments~Uruguay/Maldonado\|Maldonado]]   |
+| Tacuarembó         |   54.757 | [[Uruguay/departments~Uruguay/Tacuarembó\|Tacuarembó]]  |
+| Melo               |   51.830 | Cerro Largo |
+
+## #has_/parts  
+
+| Department                                                     | Capital           |    Pop/k | Area/kkm² |   HDI | Notable Properties               |
+| -------------------------------------------------------------- | ----------------- | -------: | --------: | ----: | -------------------------------- |
+| [[Uruguay/departments~Uruguay/Artigas\|Artigas]]               | Artigas           |   73.378 |    11.928 | 0.742 | Hot Springs, Amethyst Mines      |
+| [[Uruguay/departments~Uruguay/Canelones\|Canelones]]           | Canelones         |  520.187 |     4.536 | 0.775 | Agroindustry, El Águila          |
+| [[Uruguay/departments~Uruguay/Cerro_Largo\|Cerro Largo]]       | Melo              |   83.536 |    13.648 | 0.740 | Historic Architecture            |
+| [[Uruguay/departments~Uruguay/Colonia\|Colonia]]               | C. del Sacramento |  123.203 |     6.106 | 0.795 | UNESCO World Heritage Site       |
+| [[Uruguay/departments~Uruguay/Durazno\|Durazno]]               | Durazno           |   58.859 |    11.643 | 0.740 | Livestock Production, Festivals  |
+| [[Uruguay/departments~Uruguay/Flores\|Flores]]                 | Trinidad          |   25.050 |     5.144 | 0.758 | Paleontological Sites            |
+| [[Uruguay/departments~Uruguay/Florida_Department\|Florida]]    | Florida           |   69.493 |    10.417 | 0.765 | Historic Sites, Cattle Farming   |
+| [[Uruguay/departments~Uruguay/Lavalleja\|Lavalleja]]           | Minas             |   58.815 |    10.016 | 0.721 | Scenic Landscapes, Mines         |
+| [[Uruguay/departments~Uruguay/Maldonado\|Maldonado]]           | Maldonado         |  190.500 |     4.793 | 0.807 | Punta del Este, Tourism          |
+| [[Uruguay/departments~Uruguay/Montevideo\|Montevideo]]         | Montevideo        | 1319.108 |      .530 | 0.832 | Capital City, Cultural Hub       |
+| [[Uruguay/departments~Uruguay/Paysandú\|Paysandú]]             | Paysandú          |  113.292 |    13.922 | 0.778 | Paper Industry, Tourism          |
+| [[Uruguay/departments~Uruguay/Río_Negro,Uruguay\|Río Negro]]           | Fray Bentos       |   54.765 |     9.282 | 0.747 | UNESCO World Heritage Site       |
+| [[Uruguay/departments~Uruguay/Rivera\|Rivera]]                 | Rivera            |  103.493 |     9.370 | 0.755 | International Border City        |
+| [[Uruguay/departments~Uruguay/Rocha\|Rocha]]                   | Rocha             |   70.374 |    10.551 | 0.749 | Coastal Tourism, Lagoons         |
+| [[Uruguay/departments~Uruguay/Salto\|Salto]]                   | Salto             |  124.878 |    14.163 | 0.781 | Thermal Baths, Agric. Production |
+| [[Uruguay/departments~Uruguay/San_José\|San José]]             | San José de Mayo  |  108.309 |     5.532 | 0.778 | Dairy Industry, Historical Sites |
+| [[Uruguay/departments~Uruguay/Soriano\|Soriano]]               | Mercedes          |   82.594 |     9.008 | 0.777 | Grain Production, Industrial     |
+| [[Uruguay/departments~Uruguay/Tacuarembó\|Tacuarembó]]         | Tacuarembó        |   90.053 |    15.438 | 0.742 | Carnevala, Gaucho Culture        |
+| [[Uruguay/departments~Uruguay/Treinta_y_Tres\|Treinta y Tres]] | Treinta y Tres    |   48.134 |     9.529 | 0.743 | Rural Landscape, Cultural Events |
+
+
+## Economy 
+
+
+#### 1.1 Electricity Generation Mix (2023–2024)
+
+Uruguay has achieved an impressive **94–98 % renewable** electricity share: 
+
+| Source           |    % |    % | Notes                                     |
+| ---------------- | ---: | ---: | ----------------------------------------- |
+| Wind             | 40.0 | 50.0 | ~43 % in 2023; ~50.8 % Jan–Feb 2024       |
+| Hydropower       | 33.0 | 33.0 | ~30.9 % early‑2024                        |
+| Biomass          | 15.0 | 15.0 | 9.3 % in 2023; up to 15.7 % in early 2024 |
+| Solar            |  3.7 |  3.7 | ~3 % range                                |
+| Fossil (thermal) |  7.8 |  7.8 | Limited to dry seasons/back‐up            |
+
+With such a diversified profile, Uruguay exports electricity to Brazil and Argentina, especially during surplus periods 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Uruguay/ReadMe|ReadMe]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Uruguay|Uruguay]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Uruguay/ReadMe.public|ReadMe.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Uruguay.public|Uruguay.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Uruguay/ReadMe.internal|ReadMe.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Uruguay.internal|Uruguay.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Uruguay/ReadMe.protect|ReadMe.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Uruguay.protect|Uruguay.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Uruguay/ReadMe.private|ReadMe.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Uruguay.private|Uruguay.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Uruguay/ReadMe.personal|ReadMe.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Uruguay.personal|Uruguay.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Uruguay/ReadMe.secret|ReadMe.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Uruguay.secret|Uruguay.secret]] 
 
